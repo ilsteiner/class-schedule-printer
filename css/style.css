@@ -1,0 +1,143 @@
+@charset "UTF-8";
+.event-name {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 24px;
+  text-align: center; }
+
+.name {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+  text-align: center; }
+
+.event-name:after {
+  content: "schedule for";
+  display: block;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 5px; }
+
+.wrapper {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em; }
+  .wrapper .cell {
+    vertical-align: middle !important; }
+
+.cell {
+  padding: 0; }
+
+.wrapper > .schedule {
+  display: inline-block; }
+
+.schedule {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.schedule td {
+  font-size: 14px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal; }
+
+.schedule th {
+  font-size: 14px;
+  font-weight: normal;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal; }
+
+.schedule .cell {
+  vertical-align: top; }
+
+.mini-1 {
+  padding-bottom: 5px;
+  border-bottom: solid 1px; }
+
+.mini-2 {
+  padding-top: 5px; }
+
+.bold {
+  font-weight: bold; }
+
+.dash-after:after {
+  content: "—";
+  font-weight: normal;
+  margin-left: 3px;
+  margin-right: 3px; }
+
+.title {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 800;
+  padding: 0 10px;
+  padding-top: 10px; }
+
+.rooms .cell {
+  font-family: 'Oswald', sans-serif;
+  text-transform: capitalize;
+  font-weight: 800;
+  font-size: 1.3em;
+  padding: 10px; }
+
+.days {
+  font-family: 'Mukta Mahee', sans-serif;
+  font-style: italic; }
+
+.time {
+  font-weight: 900;
+  font-family: 'Mukta Mahee', sans-serif;
+  font-size: 1.2em !important;
+  padding: 10px; }
+
+.leader {
+  padding: 10px 0; }
+
+.first {
+  background: url(/img/check.svg);
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-position: center;
+  padding: 5px; }
+
+.updated {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  font-weight: 500; }
+
+.updated:before {
+  content: "Updated on "; }
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact; }
+  @page {
+    margin: 1.5cm; }
+  body, .wrapper {
+    width: 100%;
+    margin: 0;
+    padding: 0; }
+  .wrapper {
+    page-break-after: always; }
+  .schedule td, .schedule th {
+    font-size: 10pt !important; }
+  .rooms {
+    font-size: 12pt !important; }
+  .event-name {
+    font-size: 16px; }
+  .name {
+    font-size: 16px; }
+  .event-name:after {
+    content: "schedule for";
+    display: block;
+    font-size: 12px;
+    font-weight: 200; }
+  .time {
+    padding: 1px; }
+  .rooms .cell {
+    padding: 1px; } }
