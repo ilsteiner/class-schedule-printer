@@ -22,7 +22,8 @@
 .wrapper {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em; }
+  font-size: 1em;
+  padding-top: 50px; }
   .wrapper .cell {
     vertical-align: middle !important; }
 
@@ -123,7 +124,8 @@
     margin: 0;
     padding: 0; }
   .wrapper {
-    page-break-after: always; }
+    page-break-after: always;
+    padding-top: 0; }
   .schedule td, .schedule th {
     font-size: 10pt !important; }
   .rooms {

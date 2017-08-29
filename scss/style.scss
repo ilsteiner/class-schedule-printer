@@ -25,6 +25,7 @@
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
+	padding-top: 50px;
 	.cell {
 		vertical-align: middle !important;
 	}
@@ -149,6 +150,7 @@
 
 	.wrapper {
 		page-break-after: always;
+		padding-top: 0;
 	}
 
 	.schedule td, .schedule th {
