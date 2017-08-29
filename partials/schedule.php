@@ -199,11 +199,11 @@
     </tr>
     <tr>
       <td class="cell time">12:45</td>
-      <td class="cell" colspan="7"></td>
+      <td class="cell" colspan="7"><span class="bold dash-after">Lunch</span>Dining Room</td>
     </tr>
     <tr>
       <td class="cell time">1:30-3:35</td>
-      <td class="cell" colspan="7"></td>
+      <td class="cell" colspan="7"><span class="bold">Free Time Activities</span></td>
     </tr>
     <tr>
       <td class="cell time">3:45-5:45</td>
