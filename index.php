@@ -13,7 +13,7 @@
   </head>
   <body>
     <?php
-      $attendees = json_decode(file_get_contents("data/json/combined.json"));
+      $attendees = json_decode(file_get_contents("data/combined.json"));
 
       foreach ($attendees as $index => $attendee) {
         $name = $attendee->Name->FirstAndLast;

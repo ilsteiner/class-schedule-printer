@@ -9,13 +9,14 @@ var merge = require('gulp-merge-json');
 
 //Merge JSON
 gulp.task('json', function() {
+
 	gulp.src('data/json/*.json')
     .pipe(merge({
     	concatArrays: true,
     	edit: (parsedJson, file) => {return parsedJson.Attendees},
     	startObj: []
     }))
-    .pipe(gulp.dest('./data/json'));
+    .pipe(gulp.dest('./data'));
 });
 
 // Compile Our Sass
