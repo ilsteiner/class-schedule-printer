@@ -1,13 +1,13 @@
 @charset "UTF-8";
 .event-name {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 24px;
   text-align: center; }
 
 .name {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 200;
   font-size: 24px;
   text-align: center; }
@@ -16,12 +16,12 @@
   content: "schedule for";
   display: block;
   font-size: 12px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   padding-top: 5px; }
 
 .wrapper {
   text-align: center;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 1em;
   padding-top: 50px; }
   .wrapper .cell {
@@ -72,35 +72,76 @@
   margin-right: 3px; }
 
 .title {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 800;
   padding: 0 10px;
   padding-top: 10px; }
 
 .rooms .cell {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: capitalize;
   font-weight: 800;
   font-size: 1.3em;
   padding: 10px; }
 
 .days {
-  font-family: 'Mukta Mahee', sans-serif;
+  font-family: "Mukta Mahee", sans-serif;
   font-style: italic; }
 
 .time {
   font-weight: 900;
-  font-family: 'Mukta Mahee', sans-serif;
+  font-family: "Mukta Mahee", sans-serif;
   font-size: 1.2em !important;
   padding: 10px; }
 
 .leader {
   padding: 10px 0; }
 
-.first {
-  background: url(/img/check.svg);
+.checkmark.greyscale .first {
+  background: url(/img/check-grey.svg);
   background-repeat: no-repeat;
-  background-origin: content-box;
+  background-position: center;
+  padding: 5px; }
+
+.checkmark.colors .first {
+  background: url(/img/check-color-1.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.checkmark.both-choices.greyscale .second {
+  background: url(/img/check-grey.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.checkmark.both-choices.colors .second {
+  background: url(/img/check-color-2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.numbers.colors .first {
+  background: url(/img/1-color.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.numbers.both-choices .second {
+  background: url(/img/2-color.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.numbers.greyscale .first {
+  background: url(/img/1-grey.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
+.numbers.both-choices.greyscale .second {
+  background: url(/img/2-grey.svg);
+  background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
@@ -112,6 +153,49 @@
 
 .updated:before {
   content: "Updated on "; }
+
+.switches {
+  text-align: center;
+  font-family: "Oswald", sans-serif; }
+
+.front, .back {
+  width: 100px; }
+
+.switch {
+  display: inline-block;
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #faa634;
+  border-radius: 4px;
+  position: relative;
+  transition: 0.6s;
+  transform-style: preserve-3d; }
+
+.active {
+  transform: rotateY(180deg);
+  background: #00bed9;
+  color: #FFF; }
+
+.active .front {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0; }
+
+.active .back {
+  position: relative;
+  opacity: 1; }
+
+.front {
+  transform: rotateY(0deg);
+  opacity: 1; }
+
+.back {
+  transform: rotateY(180deg);
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0; }
 
 @media print {
   * {
@@ -126,6 +210,8 @@
   .wrapper {
     page-break-after: always;
     padding-top: 0; }
+  .switches {
+    display: none; }
   .schedule td, .schedule th {
     font-size: 10pt !important; }
   .rooms {

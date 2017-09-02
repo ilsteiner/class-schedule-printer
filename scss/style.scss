@@ -1,5 +1,12 @@
+$header-font: 'Oswald', sans-serif;
+$content-font: 'Open Sans', sans-serif;
+$sub-font: 'Mukta Mahee', sans-serif;
+
+$inactive: #faa634;
+$active: #00bed9;
+
 .event-name {
-	font-family: 'Oswald', sans-serif;
+	font-family: $header-font;
 	text-transform: uppercase;
 	font-weight: 500;
 	font-size: 24px;
@@ -7,7 +14,7 @@
 }
 
 .name {
-	font-family: 'Oswald', sans-serif;
+	font-family: $header-font;
 	font-weight: 200;
 	font-size: 24px;
 	text-align: center;
@@ -17,13 +24,13 @@
 	content: "schedule for";
 	display: block;
 	font-size: 12px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: $content-font;
 	padding-top: 5px;
 }
 
 .wrapper {
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: $content-font;
 	font-size: 1em;
 	padding-top: 50px;
 	.cell {
@@ -82,7 +89,7 @@
 }
 
 .title {
-	font-family: 'Oswald', sans-serif;
+	font-family: $header-font;
 	font-weight: 800;
 	padding: 0 10px;
 	padding-top: 10px;
@@ -90,7 +97,7 @@
 
 .rooms {
 	.cell {
-		font-family: 'Oswald', sans-serif;
+		font-family: $header-font;
 		text-transform: capitalize;
 		font-weight: 800;
 		font-size: 1.3em;
@@ -99,13 +106,13 @@
 }
 
 .days {
-	font-family: 'Mukta Mahee', sans-serif;
+	font-family: $sub-font;
 	font-style: italic;
 }
 
 .time {
 	font-weight: 900;
-	font-family: 'Mukta Mahee', sans-serif;
+	font-family: $sub-font;
 	font-size: 1.2em !important;
 	padding: 10px;
 }
@@ -114,14 +121,71 @@
 	padding: 10px 0;
 }
 
-.first {
-	background: url(/img/check.svg);
-	// background-color: #B6B6B6;
+// Based on toggles
+.checkmark.greyscale .first {
+	background: url(/img/check-grey.svg);
 	background-repeat: no-repeat;
-	background-origin: content-box;
+	//background-origin: content-box;
 	background-position: center;
 	padding: 5px;
 }
+
+.checkmark.colors .first {
+	background: url(/img/check-color-1.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.checkmark.both-choices.greyscale .second {
+	background: url(/img/check-grey.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.checkmark.both-choices.colors .second {
+	background: url(/img/check-color-2.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.numbers.colors .first {
+	background: url(/img/1-color.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.numbers.both-choices .second {
+	background: url(/img/2-color.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.numbers.greyscale .first {
+	background: url(/img/1-grey.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
+.numbers.both-choices.greyscale .second {
+	background: url(/img/2-grey.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+//End based on toggles
 
 .updated {
 	text-align: center;
@@ -132,6 +196,59 @@
 
 .updated:before {
 	content: "Updated on ";
+}
+
+.switches {
+	text-align: center;
+	font-family: $header-font;
+}
+
+.front, .back {
+	width: 100px;
+}
+
+.switch {
+	display: inline-block;
+	padding: 10px 20px;
+	cursor: pointer;
+	background: $inactive;
+	border-radius: 4px;
+	position: relative;
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	// transition: all .4s ease;
+}
+
+.active {
+	transform: rotateY(180deg);
+	background: $active;
+	color: #FFF;
+}
+
+.active .front {
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
+}
+
+.active .back {
+	position: relative;
+	opacity: 1;
+}
+
+.front {
+	// z-index: 2;
+	transform: rotateY(0deg);
+	opacity: 1;
+}
+
+.back {
+	transform: rotateY(180deg);
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
 }
 
 @media print {
@@ -151,6 +268,10 @@
 	.wrapper {
 		page-break-after: always;
 		padding-top: 0;
+	}
+
+	.switches {
+		display: none;
 	}
 
 	.schedule td, .schedule th {

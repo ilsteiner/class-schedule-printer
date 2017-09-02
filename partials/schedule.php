@@ -1,4 +1,4 @@
-<div class="wrapper">
+<div class="wrapper checkmark greyscale first-only">
   <div class="event-name">
     Winter Adventure 2017
   </div>
