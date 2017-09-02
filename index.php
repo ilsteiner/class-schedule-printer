@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Mukta+Mahee|Oswald:700" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="dist/css/concat.css">
   </head>
   <body>
     <?php
@@ -30,6 +30,6 @@
     integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
     crossorigin="anonymous"></script>
 
-    <script src="js/script.js" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="dist/js/concat.js" type="text/javascript" charset="utf-8" async defer></script>
   </body>
 </html>

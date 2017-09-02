@@ -5,6 +5,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
+var minify = require('gulp-minify-css');
 var merge = require('gulp-merge-json');
 
 //Merge JSON
@@ -26,6 +27,22 @@ gulp.task('sass', function() {
         .pipe(gulp.dest('css'));
 });
 
+// Uglify JS
+gulp.task('js', function() {
+    gulp.src('js/*.js')
+    .pipe(concat('concat.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('dist/js/'));
+});
+
+//Minify CSS
+gulp.task('css', function() {
+    gulp.src('css/*.css')
+    .pipe(concat('concat.css'))
+    .pipe(minify())
+    .pipe(gulp.dest('dist/css/'));
+});
+
 // Watch Files For Changes
 gulp.task('watch', function() {
     // gulp.watch('js/*.js', ['lint', 'scripts']);
@@ -33,4 +50,4 @@ gulp.task('watch', function() {
 });
 
 // Default Task
-gulp.task('default', ['sass', 'watch', 'json']);
+gulp.task('default', ['sass', 'watch', 'json', 'js', 'css']);
