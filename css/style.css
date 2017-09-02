@@ -97,6 +97,12 @@
 .leader {
   padding: 10px 0; }
 
+td, .mini-1, .mini-2 {
+  background: none; }
+
+.first, .second {
+  transition: background 0.7s linear; }
+
 .checkmark.greyscale .first {
   background: url(../img/check-grey.svg);
   background-repeat: no-repeat;
