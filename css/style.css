@@ -98,49 +98,49 @@
   padding: 10px 0; }
 
 .checkmark.greyscale .first {
-  background: url(/img/check-grey.svg);
+  background: url(img/check-grey.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .checkmark.colors .first {
-  background: url(/img/check-color-1.svg);
+  background: url(img/check-color-1.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .checkmark.both-choices.greyscale .second {
-  background: url(/img/check-grey.svg);
+  background: url(img/check-grey.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .checkmark.both-choices.colors .second {
-  background: url(/img/check-color-2.svg);
+  background: url(img/check-color-2.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .numbers.colors .first {
-  background: url(/img/1-color.svg);
+  background: url(img/1-color.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .numbers.both-choices .second {
-  background: url(/img/2-color.svg);
+  background: url(img/2-color.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .numbers.greyscale .first {
-  background: url(/img/1-grey.svg);
+  background: url(img/1-grey.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
 .numbers.both-choices.greyscale .second {
-  background: url(/img/2-grey.svg);
+  background: url(img/2-grey.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
