@@ -37,9 +37,6 @@
         $name = $attendee->Name->FirstAndLast;
         $enrolled = getClasses($attendee,$limitedEnrollment);
 
-        // Append to the master class array
-        $allClasses = array_merge($allClasses,$enrolled);
-
         require "partials/schedule.php";
 
         require "partials/staff-list.php";
