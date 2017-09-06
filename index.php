@@ -33,9 +33,14 @@
       $attendees = json_decode(file_get_contents("data/combined.json"));
       $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
 
+      global $classList = array();
+
       foreach ($attendees as $index => $attendee) {
         $name = $attendee->Name->FirstAndLast;
         $enrolled = getClasses($attendee,$limitedEnrollment);
+
+        // Append to the master class array
+        $allClasses = array_merge($allClasses,$enrolled);
 
         require "partials/schedule.php";
 
