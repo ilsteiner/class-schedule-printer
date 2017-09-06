@@ -129,6 +129,14 @@ td, .mini-1, .mini-2 {
 	transition: background 0.7s linear;
 }
 
+.checkmark.greyscale .enrolled {
+	background: url(../../img/check-grey.svg);
+	background-repeat: no-repeat;
+	//background-origin: content-box;
+	background-position: center;
+	padding: 5px;
+}
+
 // Based on toggles
 .checkmark.greyscale .first {
 	background: url(../../img/check-grey.svg);

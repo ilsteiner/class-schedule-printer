@@ -103,6 +103,12 @@ td, .mini-1, .mini-2 {
 .first, .second {
   transition: background 0.7s linear; }
 
+.checkmark.greyscale .enrolled {
+  background: url(../../img/check-grey.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 5px; }
+
 .checkmark.greyscale .first {
   background: url(../../img/check-grey.svg);
   background-repeat: no-repeat;

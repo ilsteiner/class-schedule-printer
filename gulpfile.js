@@ -5,23 +5,27 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
-var minify = require('gulp-minify-css');
+var minify = require('gulp-clean-css');
 var merge = require('gulp-merge-json');
+var exec = require ('child_process').exec;
+
+//Trim JSON files
+gulp.task('json-trim', function() {
+    return exec('python scripts/jsonTrim.py');
+});
 
 //Merge JSON
-gulp.task('json', function() {
-
-	gulp.src('data/json/*.json')
+gulp.task('json-merge', ['json-trim'], function() {
+	gulp.src('data/json/trimmed/*.json')
     .pipe(merge({
     	concatArrays: true,
-    	edit: (parsedJson, file) => {return parsedJson.Attendees},
     	startObj: []
     }))
     .pipe(gulp.dest('./data'));
 });
 
 // Compile Our Sass
-gulp.task('sass', function() {
+gulp.task('compile-sass', function() {
     return gulp.src('scss/*.scss')
         .pipe(sass())
         .pipe(gulp.dest('css'));
@@ -36,9 +40,8 @@ gulp.task('js', function() {
 });
 
 //Minify CSS
-gulp.task('css', function() {
+gulp.task('css', ['compile-sass'], function() {
     gulp.src('css/*.css')
-    .pipe(concat('concat.css'))
     .pipe(minify())
     .pipe(gulp.dest('dist/css/'));
 });
@@ -46,8 +49,8 @@ gulp.task('css', function() {
 // Watch Files For Changes
 gulp.task('watch', function() {
     // gulp.watch('js/*.js', ['lint', 'scripts']);
-    gulp.watch('scss/*.scss', ['sass']);
+    gulp.watch('scss/*.scss', ['compile-sass']);
 });
 
 // Default Task
-gulp.task('default', ['sass', 'watch', 'json', 'js', 'css']);
+gulp.task('default', ['watch', 'json-merge', 'js', 'css']);

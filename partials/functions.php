@@ -1,25 +1,140 @@
 <?php
-	function getClasses($attendee) {
+	function getClasses($attendee,&$limitedEnrollment) {
 		$classes = array();
 
-		insertClass($classes,(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod : null),"first");
-		insertClass($classes,(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod : null),"first");
-		insertClass($classes,(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod : null),"second");
-		insertClass($classes,(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod : null),"second");
-		insertClass($classes,(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod : null),"first");
-	    insertClass($classes,(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod : null),"first");
-	    insertClass($classes,(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod : null),"second");
-	    insertClass($classes,(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod : null),"second");
-		insertClass($classes,(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod : null),"first");
-	    insertClass($classes,(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod : null),"first");
-	    insertClass($classes,(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod : null),"second");
-	    insertClass($classes,(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod : null),"second");
+		// First period
+		limitEnrollment($classes, $limitedEnrollment,
+				[
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod : null),
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod : null)
+				],
+				[
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod : null),
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod : null)
+				]
+			);
+
+			// Second period
+			limitEnrollment($classes, $limitedEnrollment,
+					[
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod : null),
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod : null)
+					],
+					[
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod : null),
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod : null)
+					]
+			);
+
+			// Third period
+			limitEnrollment($classes, $limitedEnrollment,
+					[
+						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod : null),
+						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod : null)
+					],
+					[
+						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod : null),
+						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod : null)
+					]
+			);
 
 	    return $classes;
+	}
+
+	function limitEnrollment(&$classes,&$limitedEnrollment,$firstChoices,$secondChoices) {
+		if(checkPair($firstChoices,$limitedEnrollment)) {
+			enrollPair($firstChoices, $classes, $limitedEnrollment);
+		}
+
+		else if(checkPair($secondChoices,$limitedEnrollment)) {
+			enrollPair($secondChoices, $classes, $limitedEnrollment);
+		}
+
+		else {
+			// Display error
+			echo "No enrollment";
+		}
+	}
+
+	// Adds classes to array for display and updates class limits
+	function enrollPair($classPair, &$classes, &$limitedEnrollment) {
+		if($classPair[0] != null) {
+			// Increment enrollment count
+			incrementEnrollmentCount($limitedEnrollment,$classPair[0]);
+
+			//Add to array
+			array_push($classes,cleanName($classPair[0]));
+		}
+
+		if($classPair[1] != null) {
+			// Increment enrollment count
+			incrementEnrollmentCount($limitedEnrollment,$classPair[1]);
+
+			//Add to array
+			array_push($classes,cleanName($classPair[1]));
+		}
+	}
+
+	// Returns true if the pair is valid, false otherwise
+	function checkPair($classPair, $limitedEnrollment) {
+		// If there's no choice in the first slot
+		// Or there is, but there's no limit problem
+		if($classPair[0] == null || checkLimit($limitedEnrollment,$classPair[0])) {
+			// If both slots are either null or have no limit issues
+			if($classPair[1] == null || checkLimit($limitedEnrollment,$classPair[1])) {
+				return true;
+			}
+		}
+
+		// One of them had a problem
+		return false;
+	}
+
+	function incrementEnrollmentCount(&$limitedEnrollment, $className) {
+		$cleanName = cleanName($className);
+
+		if(array_key_exists($cleanName, $limitedEnrollment)) {
+			$limitedEnrollment[$cleanName]["enrolled"]++;
+		}
+	}
+
+	function cleanName($className) {
+		return strtolower(preg_replace("/[_\W]+/","-",preg_replace("/[()']+/","",$className)));
+	}
+
+	// Returns true if there is no limit or we're below it
+	function checkLimit(&$limitedEnrollment,$className) {
+		$cleanName = cleanName($className);
+
+		// If the class has a limit
+		if(array_key_exists($cleanName, $limitedEnrollment)) {
+			// And the limit has not yet been reached
+			if($limitedEnrollment[$cleanName]["enrolled"] < $limitedEnrollment[$cleanName]["limit"]) {
+				return true;
+			}
+
+			// But the limit has been reached
+			return false;
+		}
+
+		// There is no limit for this class
+		return true;
 	}
 
 	function insertClass(&$classes,$classSelector,$priority) {
 		if(isset($classSelector)) {
 			$classes[strtolower(preg_replace("/[_\W]+/","-",preg_replace("/[()']+/","",$classSelector)))] = $priority;
 		}
+	}
+
+	function getLimitedClasses($limits) {
+		$limitedClasses = array();
+		foreach ($limits["class-limits"] as $className => $limit) {
+			if($limit > 0) {
+				$limitedClasses[$className]["limit"] = $limit;
+				$limitedClasses[$className]["enrolled"] = 0;
+			}
+		}
+
+		return $limitedClasses;
 	}
