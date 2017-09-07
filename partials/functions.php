@@ -2,15 +2,24 @@
 	function getClasses($attendee,&$limitedEnrollment) {
 		$classes = array();
 
+		$classes["name"] = $attendee->Name->FirstAndLast;
+		$classes["time"] = $attendee->Timestamp;
+
 		// First period
 		limitEnrollment($classes, $limitedEnrollment,
 				[
 					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod : null),
-					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod : null)
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod : null),
+
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->Leader) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->Leader : null),
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->Leader2) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->Leader2 : null)
 				],
 				[
 					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName1FirstPeriod : null),
-					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod : null)
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->ClassName2FirstPeriod : null),
+
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->Leader) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->Leader : null),
+					(isset($attendee->ClassRegistration->MorningFirstPeriod[1]->Leader2) ? $attendee->ClassRegistration->MorningFirstPeriod[1]->Leader2 : null)
 				]
 			);
 
@@ -18,11 +27,17 @@
 			limitEnrollment($classes, $limitedEnrollment,
 					[
 						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod : null),
-						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod : null)
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod : null),
+
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->Leader) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->Leader : null),
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->Leader2) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->Leader2 : null)
 					],
 					[
 						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName1SecondPeriod : null),
-						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod : null)
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->ClassName2SecondPeriod : null),
+
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->Leader) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->Leader : null),
+						(isset($attendee->ClassRegistration->MorningSecondPeriod[1]->Leader2) ? $attendee->ClassRegistration->MorningSecondPeriod[1]->Leader2 : null)
 					]
 			);
 
@@ -30,15 +45,48 @@
 			limitEnrollment($classes, $limitedEnrollment,
 					[
 						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod : null),
-						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod : null)
+						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod : null),
+
+						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->Leader) ? $attendee->ClassRegistration->AfternoonPeriod[0]->Leader : null),
+						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->Leader2) ? $attendee->ClassRegistration->AfternoonPeriod[0]->Leader2 : null)
 					],
 					[
 						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName1ThirdPeriod : null),
-						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod : null)
+						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[1]->ClassName2ThirdPeriod : null),
+
+						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->Leader) ? $attendee->ClassRegistration->AfternoonPeriod[1]->Leader : null),
+						(isset($attendee->ClassRegistration->AfternoonPeriod[1]->Leader2) ? $attendee->ClassRegistration->AfternoonPeriod[1]->Leader2 : null)
 					]
 			);
 
+		//Add to staff lists
+		addToStaffLists($classes);
+
 	    return $classes;
+	}
+
+	function addToStaffLists($classes) {
+		global $staffLists;
+
+		if(isset($classes[0])) {
+			$staffLists[$classes[0]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[0]]["leader"] = $classes[1];
+		}
+
+		if(isset($classes[2])) {
+			$staffLists[$classes[2]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[2]]["leader"] = $classes[3];
+		}
+
+		if(isset($classes[4])) {
+			$staffLists[$classes[4]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[4]]["leader"] = $classes[5];
+		}
+
+		if(isset($classes[6])) {
+			$staffLists[$classes[6]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[6]]["leader"] = $classes[7];
+		}		
 	}
 
 	function limitEnrollment(&$classes,&$limitedEnrollment,$firstChoices,$secondChoices) {
@@ -63,7 +111,7 @@
 			incrementEnrollmentCount($limitedEnrollment,$classPair[0]);
 
 			//Add to array
-			array_push($classes,cleanName($classPair[0]));
+			array_push($classes,cleanName($classPair[0]),$classPair[2]);			
 		}
 
 		if($classPair[1] != null) {
@@ -71,7 +119,7 @@
 			incrementEnrollmentCount($limitedEnrollment,$classPair[1]);
 
 			//Add to array
-			array_push($classes,cleanName($classPair[1]));
+			array_push($classes,cleanName($classPair[1]),$classPair[3]);
 		}
 	}
 

@@ -32,15 +32,16 @@
 
       $attendees = json_decode(file_get_contents("data/combined.json"));
       $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
+      $staffLists = array();
 
       foreach ($attendees as $index => $attendee) {
         $name = $attendee->Name->FirstAndLast;
         $enrolled = getClasses($attendee,$limitedEnrollment);
 
         require "partials/schedule.php";
-
-        require "partials/staff-list.php";
       }
+
+      require "partials/staff-list.php";
     ?>
 
     <script
