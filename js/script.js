@@ -1,6 +1,14 @@
 $(".switch").click(function() {
 	$(this).toggleClass('active');
+	console.log("Triggered");
 	addWrapperClasses();
+});
+
+$(".content-toggle").click(function() {
+	$(".class-schedules").toggleClass("active-content");
+	$(".staff-lists").toggleClass("active-content");
+	$(".schedule-switches").toggleClass("active-content");
+
 });
 
 function addWrapperClasses() {
@@ -10,12 +18,7 @@ function addWrapperClasses() {
 	else {
 		swapClasses("checkmark","numbers");
 	}
-	if($("#first-second.active").length) {
-		swapClasses("both-choices","first-only");
-	}
-	else {
-		swapClasses("first-only","both-choices");
-	}
+
 	if($("#colors.active").length) {
 		swapClasses("colors","greyscale");
 	}

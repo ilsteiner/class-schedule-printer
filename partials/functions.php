@@ -1,12 +1,13 @@
 <?php
 	function getClasses($attendee,&$limitedEnrollment) {
 		$classes = array();
+		global $nameMap;
 
 		$classes["name"] = $attendee->Name->FirstAndLast;
 		$classes["time"] = $attendee->Timestamp;
 
 		// First period
-		limitEnrollment($classes, $limitedEnrollment,
+		limitEnrollment($classes, $nameMap, $limitedEnrollment,
 				[
 					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName1FirstPeriod : null),
 					(isset($attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod) ? $attendee->ClassRegistration->MorningFirstPeriod[0]->ClassName2FirstPeriod : null),
@@ -24,7 +25,7 @@
 			);
 
 			// Second period
-			limitEnrollment($classes, $limitedEnrollment,
+			limitEnrollment($classes, $nameMap, $limitedEnrollment,
 					[
 						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName1SecondPeriod : null),
 						(isset($attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod) ? $attendee->ClassRegistration->MorningSecondPeriod[0]->ClassName2SecondPeriod : null),
@@ -42,7 +43,7 @@
 			);
 
 			// Third period
-			limitEnrollment($classes, $limitedEnrollment,
+			limitEnrollment($classes, $nameMap, $limitedEnrollment,
 					[
 						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName1ThirdPeriod : null),
 						(isset($attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod) ? $attendee->ClassRegistration->AfternoonPeriod[0]->ClassName2ThirdPeriod : null),
@@ -60,12 +61,12 @@
 			);
 
 		//Add to staff lists
-		addToStaffLists($classes);
+		addToStaffLists($classes,$nameMap);
 
 	    return $classes;
 	}
 
-	function addToStaffLists($classes) {
+	function addToStaffLists($classes,$nameMap) {
 		global $staffLists;
 
 		if(isset($classes[0])) {
@@ -89,13 +90,13 @@
 		}		
 	}
 
-	function limitEnrollment(&$classes,&$limitedEnrollment,$firstChoices,$secondChoices) {
+	function limitEnrollment(&$classes, &$nameMap, &$limitedEnrollment,$firstChoices,$secondChoices) {
 		if(checkPair($firstChoices,$limitedEnrollment)) {
-			enrollPair($firstChoices, $classes, $limitedEnrollment);
+			enrollPair($firstChoices, $nameMap, $classes, $limitedEnrollment);
 		}
 
 		else if(checkPair($secondChoices,$limitedEnrollment)) {
-			enrollPair($secondChoices, $classes, $limitedEnrollment);
+			enrollPair($secondChoices, $nameMap, $classes, $limitedEnrollment);
 		}
 
 		else {
@@ -105,13 +106,16 @@
 	}
 
 	// Adds classes to array for display and updates class limits
-	function enrollPair($classPair, &$classes, &$limitedEnrollment) {
+	function enrollPair($classPair, &$nameMap, &$classes, &$limitedEnrollment) {
 		if($classPair[0] != null) {
 			// Increment enrollment count
 			incrementEnrollmentCount($limitedEnrollment,$classPair[0]);
 
 			//Add to array
-			array_push($classes,cleanName($classPair[0]),$classPair[2]);			
+			array_push($classes,cleanName($classPair[0]),$classPair[2]);	
+
+			//Add to name map
+			$nameMap[cleanName($classPair[0])] = $classPair[0];
 		}
 
 		if($classPair[1] != null) {
@@ -120,6 +124,9 @@
 
 			//Add to array
 			array_push($classes,cleanName($classPair[1]),$classPair[3]);
+
+			//Add to name map
+			$nameMap[cleanName($classPair[1])] = $classPair[1];
 		}
 	}
 

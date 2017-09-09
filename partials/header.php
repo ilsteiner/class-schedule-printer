@@ -1,13 +1,10 @@
 <header id="header" class="header">
-	<div class="switches">
-		<div id="background" class="switch">
-			<div class="front">
-				Checkmark
-			</div>
-			<div class="back">
-				Numbers
-			</div>
+	<div class="content-switches">
+		<div class="content-toggle">
+			Content
 		</div>
+	</div>
+	<div class="schedule-switches active-content">
 		<div id="colors" class="switch">
 			<div class="front">
 				Greyscale
@@ -16,13 +13,5 @@
 				Colors
 			</div>
 		</div>
-		<div id="first-second" class="switch">
-			<div class="front">
-				First Only
-			</div>
-			<div class="back">
-				Both Choices
-			</div>
-		</div>
 	</div>
-</header><!-- /header -->
+</header>

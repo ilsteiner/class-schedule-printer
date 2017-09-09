@@ -101,6 +101,7 @@ td, .mini-1, .mini-2 {
   background: none; }
 
 .first, .second {
+  -webkit-transition: background 0.7s linear;
   transition: background 0.7s linear; }
 
 .checkmark.greyscale .enrolled {
@@ -109,53 +110,20 @@ td, .mini-1, .mini-2 {
   background-position: center;
   padding: 5px; }
 
-.checkmark.greyscale .first {
+.checkmark.greyscale .enrolled {
   background: url(../../img/check-grey.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
-.checkmark.colors .first {
+.checkmark.colors .enrolled {
   background: url(../../img/check-color-1.svg);
   background-repeat: no-repeat;
   background-position: center;
   padding: 5px; }
 
-.checkmark.both-choices.greyscale .second {
-  background: url(../../img/check-grey.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
-
-.checkmark.both-choices.colors .second {
-  background: url(../../img/check-color-2.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
-
-.numbers.colors .first {
-  background: url(../../img/1-color.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
-
-.numbers.both-choices .second {
-  background: url(../../img/2-color.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
-
-.numbers.greyscale .first {
-  background: url(../../img/1-grey.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
-
-.numbers.both-choices.greyscale .second {
-  background: url(../../img/2-grey.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 5px; }
+.header {
+  z-index: 20; }
 
 .updated {
   text-align: center;
@@ -166,9 +134,10 @@ td, .mini-1, .mini-2 {
 .updated:before {
   content: "Updated on "; }
 
-.switches {
+.schedule-switches {
   text-align: center;
-  font-family: "Oswald", sans-serif; }
+  font-family: "Oswald", sans-serif;
+  opacity: 0; }
 
 .front, .back {
   width: 100px; }
@@ -180,11 +149,14 @@ td, .mini-1, .mini-2 {
   background: #faa634;
   border-radius: 4px;
   position: relative;
+  -webkit-transition: 0.6s;
   transition: 0.6s;
-  transform-style: preserve-3d; }
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
 
 .active {
-  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
   background: #00bed9;
   color: #FFF; }
 
@@ -199,15 +171,69 @@ td, .mini-1, .mini-2 {
   opacity: 1; }
 
 .front {
-  transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg);
   opacity: 1; }
 
 .back {
-  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
   position: absolute;
   opacity: 0;
   top: 0;
   left: 0; }
+
+.staff-list {
+  padding: 20px; }
+  .staff-list .header {
+    padding-bottom: 20px;
+    text-align: center; }
+    .staff-list .header .class-name {
+      font-family: "Oswald", sans-serif;
+      font-size: 2em; }
+    .staff-list .header .leader-name {
+      font-family: "Mukta Mahee", sans-serif;
+      font-size: 1.5em; }
+  .staff-list .participants {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2em;
+    padding: 0px 25%;
+    -webkit-column-count: 2;
+            column-count: 2; }
+    .staff-list .participants .participant {
+      -webkit-column-break-inside: avoid;
+              break-inside: avoid-column;
+      padding-bottom: 15px; }
+      .staff-list .participants .participant .participant-name {
+        display: inline-block; }
+      .staff-list .participants .participant .participant-name:after {
+        padding: 0px 10px;
+        content: "\2014"; }
+      .staff-list .participants .participant .registration-time {
+        display: inline-block; }
+        .staff-list .participants .participant .registration-time .reg-date {
+          padding-right: 5px; }
+        .staff-list .participants .participant .registration-time .reg-time {
+          padding-right: 2px; }
+        .staff-list .participants .participant .registration-time .reg-ampm {
+          font-size: .6em;
+          padding-right: 5px; }
+
+.class-schedules, .staff-lists {
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  z-index: -10; }
+
+.active-content {
+  opacity: 1;
+  z-index: 10; }
+
+.class-schedules.active-content, .staff-lists.active-content {
+  position: relative; }
 
 @media print {
   * {
@@ -222,7 +248,7 @@ td, .mini-1, .mini-2 {
   .wrapper {
     page-break-after: always;
     padding-top: 0; }
-  .switches {
+  .schedule-switches {
     display: none; }
   .schedule td, .schedule th {
     font-size: 10pt !important; }

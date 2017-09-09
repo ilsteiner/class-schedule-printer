@@ -28,21 +28,26 @@
   </head>
   <body>
     <?php
-      // require "partials/header.php";
-
-      $attendees = json_decode(file_get_contents("data/combined.json"));
-      $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
-      $staffLists = array();
-
-      foreach ($attendees as $index => $attendee) {
-        $name = $attendee->Name->FirstAndLast;
-        $enrolled = getClasses($attendee,$limitedEnrollment);
-
-        require "partials/schedule.php";
-      }
-
-      require "partials/staff-list.php";
+      require "partials/header.php";
     ?>
+    <div class="class-schedules active-content">
+      <?php
+        $attendees = json_decode(file_get_contents("data/combined.json"));
+        $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
+        $staffLists = array();
+        $nameMap = array();
+
+        foreach ($attendees as $index => $attendee) {
+          $name = $attendee->Name->FirstAndLast;
+          $enrolled = getClasses($attendee,$limitedEnrollment,$nameMap);
+
+          require "partials/schedule.php";
+        }
+      ?>
+    </div>
+    <div class="staff-lists">
+      <?php require "partials/staff-list.php"; ?>
+    </div>
 
     <script
     src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

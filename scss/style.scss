@@ -138,7 +138,7 @@ td, .mini-1, .mini-2 {
 }
 
 // Based on toggles
-.checkmark.greyscale .first {
+.checkmark.greyscale .enrolled {
 	background: url(../../img/check-grey.svg);
 	background-repeat: no-repeat;
 	//background-origin: content-box;
@@ -146,62 +146,18 @@ td, .mini-1, .mini-2 {
 	padding: 5px;
 }
 
-.checkmark.colors .first {
+.checkmark.colors .enrolled {
 	background: url(../../img/check-color-1.svg);
 	background-repeat: no-repeat;
 	//background-origin: content-box;
 	background-position: center;
 	padding: 5px;
 }
-
-.checkmark.both-choices.greyscale .second {
-	background: url(../../img/check-grey.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
-
-.checkmark.both-choices.colors .second {
-	background: url(../../img/check-color-2.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
-
-.numbers.colors .first {
-	background: url(../../img/1-color.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
-
-.numbers.both-choices .second {
-	background: url(../../img/2-color.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
-
-.numbers.greyscale .first {
-	background: url(../../img/1-grey.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
-
-.numbers.both-choices.greyscale .second {
-	background: url(../../img/2-grey.svg);
-	background-repeat: no-repeat;
-	//background-origin: content-box;
-	background-position: center;
-	padding: 5px;
-}
 //End based on toggles
+
+.header {
+	z-index: 20;
+}
 
 .updated {
 	text-align: center;
@@ -214,9 +170,10 @@ td, .mini-1, .mini-2 {
 	content: "Updated on ";
 }
 
-.switches {
+.schedule-switches {
 	text-align: center;
 	font-family: $header-font;
+	opacity: 0;
 }
 
 .front, .back {
@@ -267,6 +224,83 @@ td, .mini-1, .mini-2 {
 	left: 0;
 }
 
+
+
+.staff-list {
+	padding: 20px;
+
+	.header {
+		padding-bottom: 20px;
+		text-align: center;
+
+		.class-name {
+			font-family: $header-font;
+			font-size: 2em;
+		}
+		.leader-name {
+			font-family: $sub-font;
+			font-size: 1.5em;
+		}
+	}
+	.participants {
+		font-family: $content-font;
+		font-size: 1.2em;
+		padding: 0px 25%;
+
+		column-count: 2;
+
+		.participant {
+			break-inside: avoid-column;
+			padding-bottom: 15px;
+
+			.participant-name {
+				display: inline-block;
+			}
+
+			.participant-name:after {
+				padding: 0px 10px;
+				content: "\2014";
+			}
+
+			.registration-time {
+				display: inline-block;
+
+				.reg-date {
+					padding-right: 5px;
+				}
+
+				.reg-time {
+					padding-right: 2px;
+				}
+
+				.reg-ampm {
+					font-size: .6em;
+					padding-right: 5px;
+				}
+			}
+		}
+	}
+}
+
+// Content switching
+.class-schedules, .staff-lists {
+	transition: 0.6s;
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
+	z-index: -10;
+}
+
+.active-content {
+	opacity: 1;
+	z-index: 10;
+}
+
+.class-schedules.active-content, .staff-lists.active-content {
+	position: relative;
+}
+
 @media print {
 	* {
 		-webkit-print-color-adjust: exact;
@@ -286,7 +320,7 @@ td, .mini-1, .mini-2 {
 		padding-top: 0;
 	}
 
-	.switches {
+	.schedule-switches {
 		display: none;
 	}
 
