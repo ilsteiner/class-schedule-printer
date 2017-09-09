@@ -55,5 +55,7 @@
     crossorigin="anonymous"></script>
 
     <script src="dist/js/concat.js" type="text/javascript" charset="utf-8" async defer></script>
+
+    <script src="https://use.fontawesome.com/9598abd703.js"></script>
   </body>
 </html>

@@ -17,7 +17,7 @@
 	<?php
 	foreach ($staffLists as $className => $data) {
 		echo "<div class='staff-list'>";
-			echo "<div class='header'>";
+			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $nameMap[$className] . "</div>";
 				echo "<div class='leader-name'>" . $data["leader"] . "</div>";
 			echo "</div>";

@@ -1,14 +1,28 @@
-$(".switch").click(function() {
+$(".schedule-style-switch").click(function() {
 	$(this).toggleClass('active');
-	console.log("Triggered");
 	addWrapperClasses();
 });
 
-$(".content-toggle").click(function() {
-	$(".class-schedules").toggleClass("active-content");
-	$(".staff-lists").toggleClass("active-content");
-	$(".schedule-switches").toggleClass("active-content");
+$(".schedule-switch").click(function() {
+	$(this).addClass('active');
+	$(".list-switch").removeClass('active');
 
+	//Toggle checkmark switches
+	$(".schedule-switches").addClass("active-content");
+
+	$(".staff-lists").removeClass("active-content");
+	$(".class-schedules").addClass("active-content");
+});
+
+$(".list-switch").click(function() {
+	$(this).addClass('active');
+	$(".schedule-switch").removeClass('active');
+
+	//Toggle checkmark switches
+	$(".schedule-switches").removeClass("active-content");
+
+	$(".class-schedules").removeClass("active-content");
+	$(".staff-lists").addClass("active-content");
 });
 
 function addWrapperClasses() {
