@@ -5,6 +5,7 @@
 
 		$classes["name"] = $attendee->Name->FirstAndLast;
 		$classes["time"] = $attendee->Timestamp;
+		$classes["age"] = (isset($attendee->Fees->Age) ? $attendee->Fees->Age : null);
 
 		// First period
 		limitEnrollment($classes, $nameMap, $limitedEnrollment,
@@ -70,22 +71,26 @@
 		global $staffLists;
 
 		if(isset($classes[0])) {
-			$staffLists[$classes[0]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[0]]["participants"][$classes["name"]]["time"] = $classes["time"];
+			$staffLists[$classes[0]]["participants"][$classes["name"]]["age"] = $classes["age"];
 			$staffLists[$classes[0]]["leader"] = $classes[1];
 		}
 
 		if(isset($classes[2])) {
-			$staffLists[$classes[2]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[2]]["participants"][$classes["name"]]["time"] = $classes["time"];
+			$staffLists[$classes[2]]["participants"][$classes["name"]]["age"] = $classes["age"];
 			$staffLists[$classes[2]]["leader"] = $classes[3];
 		}
 
 		if(isset($classes[4])) {
-			$staffLists[$classes[4]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[4]]["participants"][$classes["name"]]["time"] = $classes["time"];
+			$staffLists[$classes[4]]["participants"][$classes["name"]]["age"] = $classes["age"];
 			$staffLists[$classes[4]]["leader"] = $classes[5];
 		}
 
 		if(isset($classes[6])) {
-			$staffLists[$classes[6]]["participants"][$classes["name"]] = $classes["time"];
+			$staffLists[$classes[6]]["participants"][$classes["name"]]["time"] = $classes["time"];
+			$staffLists[$classes[6]]["participants"][$classes["name"]]["age"] = $classes["age"];
 			$staffLists[$classes[6]]["leader"] = $classes[7];
 		}		
 	}

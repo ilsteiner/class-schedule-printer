@@ -22,9 +22,10 @@
 				echo "<div class='leader-name'>" . $data["leader"] . "</div>";
 			echo "</div>";
 			echo "<div class='participants'>";
-				foreach ($data["participants"] as $participant => $time) {
+				foreach ($data["participants"] as $participant => $pData) {
+					$time = $pData["time"];
 					echo "<div class='participant'>";
-						echo "<div class='participant-name'>" . $participant . "</div>";
+						echo "<div class='participant-name'>" . $participant . (isset($pData["age"]) ? "<span class='age'>" . $pData["age"] . "</span>" : "") . "</div>";
 						echo "<div class='registration-time' title='Timezone:  " .
 								date("T, P", $time) .
 								"'>" .

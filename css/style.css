@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body {
+  color: #333;
+  background: #eee; }
+
 .event-name {
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
@@ -168,7 +172,7 @@ td, .mini-1, .mini-2 {
   -webkit-transform: rotateX(180deg);
           transform: rotateX(180deg);
   background: #00bed9;
-  color: #fff; }
+  color: #eee; }
 
 .active .front {
   position: absolute;
@@ -235,6 +239,15 @@ td, .mini-1, .mini-2 {
         .staff-list .participants .participant .registration-time .reg-ampm {
           font-size: .6em;
           padding-right: 5px; }
+      .staff-list .participants .participant .age {
+        font-size: .6em;
+        font-weight: bold;
+        color: #B34D4D; }
+      .staff-list .participants .participant .age:before {
+        content: "(age";
+        padding: 0px 5px; }
+      .staff-list .participants .participant .age:after {
+        content: ")"; }
 
 .class-schedules, .staff-lists {
   -webkit-transition: 0.5s cubic-bezier(0, 0.96, 0.58, 0.69);
@@ -266,7 +279,7 @@ td, .mini-1, .mini-2 {
   position: relative;
   -webkit-transform: rotateX(0deg);
           transform: rotateX(0deg);
-  color: #000; }
+  color: #333; }
 
 @media print {
   * {
@@ -277,10 +290,23 @@ td, .mini-1, .mini-2 {
   body, .wrapper {
     width: 100%;
     margin: 0;
-    padding: 0; }
+    padding: 0;
+    color: #000;
+    background: #FFF; }
   .wrapper, .staff-list {
     page-break-after: always;
+    -webkit-region-break-inside: avoid;
+    page-break-inside: avoid;
+    position: relative;
     padding-top: 0; }
+  .wrapper:last-of-type, .staff-list:last-of-type {
+    page-break-after: none; }
+  .staff-lists, .class-schedules {
+    display: none; }
+  .active-content {
+    display: block; }
+  .updated {
+    display: none; }
   .header {
     display: none; }
   .schedule td, .schedule th {
@@ -307,4 +333,6 @@ td, .mini-1, .mini-2 {
   .staff-list .participant-name:after {
     display: none; }
   .staff-list .registration-time {
-    display: none !important; } }
+    display: none !important; }
+  .staff-list .age {
+    color: inherit; } }

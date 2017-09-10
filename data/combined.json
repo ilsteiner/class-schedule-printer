@@ -40,7 +40,7 @@
 			"MorningSecondPeriod_Minimum": 0
 		},
 		"Fees": {
-			"Age": null,
+			"Age": 13,
 			"Deposit": null,
 			"Deposit_Description": null,
 			"Deposit_Name": "Deposit",
