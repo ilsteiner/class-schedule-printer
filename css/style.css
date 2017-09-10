@@ -168,7 +168,7 @@ td, .mini-1, .mini-2 {
   -webkit-transform: rotateX(180deg);
           transform: rotateX(180deg);
   background: #00bed9;
-  color: #FFF; }
+  color: #fff; }
 
 .active .front {
   position: absolute;
@@ -237,17 +237,27 @@ td, .mini-1, .mini-2 {
           padding-right: 5px; }
 
 .class-schedules, .staff-lists {
-  -webkit-transition: 0.3s cubic-bezier(0, 0.96, 0.58, 0.69);
-  transition: 0.3s cubic-bezier(0, 0.96, 0.58, 0.69);
+  -webkit-transition: 0.5s cubic-bezier(0, 0.96, 0.58, 0.69);
+  transition: 0.5s cubic-bezier(0, 0.96, 0.58, 0.69);
   position: absolute;
   visibility: hidden;
   opacity: 0;
-  top: 999;
-  left: 999;
+  top: 0;
+  left: 0;
   z-index: -10;
+  color: #fff; }
+
+.class-schedules {
   -webkit-transform: rotateY(180deg);
           transform: rotateY(180deg);
-  color: #FFF; }
+  -webkit-transform: rotateX(90deg);
+          transform: rotateX(90deg); }
+
+.staff-lists {
+  -webkit-transform: rotateY(-180deg);
+          transform: rotateY(-180deg);
+  -webkit-transform: rotateX(-90deg);
+          transform: rotateX(-90deg); }
 
 .active-content {
   visibility: visible;
