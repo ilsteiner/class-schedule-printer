@@ -4,6 +4,7 @@ $sub-font: 'Mukta Mahee', sans-serif;
 
 $body-text: #333;
 $body-background: #eee;
+$alert: #B34D4D;
 
 $inactive: #faa634;
 $active: #00bed9;
@@ -264,6 +265,21 @@ td, .mini-1, .mini-2 {
             font-family: $sub-font;
             font-size: 1.5em;
         }
+        .count {
+            font-family: $sub-font;
+            font-size: 1.3em;
+            opacity: .8;
+        }
+        .count:after {
+            content: " participants enrolled";
+        }
+
+        .count.limit {
+            color: $alert;
+        }
+        .count.limit:after {
+            content: " participants enrolled \2014  class full";
+        }
     }
     .participants {
         font-family: $content-font;
@@ -314,7 +330,7 @@ td, .mini-1, .mini-2 {
             .age {
                 font-size: .6em;
                 font-weight: bold;
-                color: #B34D4D;
+                color: $alert;
             }
 
             .age:before {

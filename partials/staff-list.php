@@ -20,6 +20,7 @@
 			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $nameMap[$className] . "</div>";
 				echo "<div class='leader-name'>" . $data["leader"] . "</div>";
+				echo "<div class='count" . (atLimit($className) ? " limit" : "") . "'>" . count($data["participants"]) . "</div>";
 			echo "</div>";
 			echo "<div class='participants'>";
 				foreach ($data["participants"] as $participant => $pData) {

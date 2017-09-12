@@ -198,3 +198,8 @@
 
 		return $limitedClasses;
 	}
+
+	function atLimit($className) {
+		global $limitedEnrollment;
+		return (isset($limitedEnrollment[$className]) ? $limitedEnrollment[$className]["enrolled"] >= $limitedEnrollment[$className]["limit"] : false);
+	}

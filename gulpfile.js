@@ -19,7 +19,7 @@ gulp.task('json-trim', function() {
 });
 
 //Merge JSON
-gulp.task('json-merge', ['json-trim'], function() {
+gulp.task('json-merge',  function() {
 	gulp.src('data/json/trimmed/*.json')
     .pipe(merge({
     	concatArrays: true,

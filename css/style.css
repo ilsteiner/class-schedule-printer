@@ -208,6 +208,16 @@ td, .mini-1, .mini-2 {
     .staff-list .staff-list-header .leader-name {
       font-family: "Mukta Mahee", sans-serif;
       font-size: 1.5em; }
+    .staff-list .staff-list-header .count {
+      font-family: "Mukta Mahee", sans-serif;
+      font-size: 1.3em;
+      opacity: .8; }
+    .staff-list .staff-list-header .count:after {
+      content: " participants enrolled"; }
+    .staff-list .staff-list-header .count.limit {
+      color: #B34D4D; }
+    .staff-list .staff-list-header .count.limit:after {
+      content: " participants enrolled \2014  class full"; }
   .staff-list .participants {
     font-family: "Open Sans", sans-serif;
     font-size: 1.2em;
