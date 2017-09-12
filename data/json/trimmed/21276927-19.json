@@ -1,0 +1,85 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Adventure Game Theater", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Isaac Lebwohl-Steiner", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1ThirdPeriod": "Cultural Messages in Games", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 2, 
+                    "Leader": "Frank Baskin and Karen Wisnia", 
+                    "Leader2": ""
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within", 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Stephen Kaye", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "Za McDonnell", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Small Scenes", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 655.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Male", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Bette-ann", 
+            "FirstAndLast": "Bette-ann Jupp", 
+            "Last": "Jupp", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": null, 
+        "Timestamp": 1504634014.0
+    }
+]
