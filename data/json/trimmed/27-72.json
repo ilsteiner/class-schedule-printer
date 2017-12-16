@@ -1,0 +1,71 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": null, 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 1, 
+                    "Leader": "", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": null, 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": null, 
+                    "ClassName2SecondPeriod": "Story Games", 
+                    "ItemNumber": 1, 
+                    "Leader": "", 
+                    "Leader2": "Robin Bady"
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "tom rigney", 
+            "RemarksForRegistrar": "If possible, Tom would prefer a room without stairs!", 
+            "RoomAndBoard": 290.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRSmini964", 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "robin", 
+            "FirstAndLast": "robin bady", 
+            "Last": "bady", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(718) 633-6651", 
+        "Timestamp": 1511294760.0
+    }
+]

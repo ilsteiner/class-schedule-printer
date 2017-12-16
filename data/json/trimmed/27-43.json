@@ -1,0 +1,47 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": "Handicapped room.\nCourse selection to follow.", 
+            "RoomAndBoard": 655.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRShonor313", 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Ruth", 
+            "FirstAndLast": "Ruth Sherman", 
+            "Last": "Sherman", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(914) 941-7325", 
+        "Timestamp": 1510147686.0
+    }
+]

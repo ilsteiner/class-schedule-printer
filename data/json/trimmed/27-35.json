@@ -1,0 +1,70 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": "Howard Moody"
+                }, 
+                {
+                    "ClassName1FirstPeriod": "Active Games (days 1-2)", 
+                    "ClassName2FirstPeriod": "Waltz Time is Play Time", 
+                    "ItemNumber": 2, 
+                    "Leader": "Jacquie Adain", 
+                    "Leader2": "Wesley Stevens"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Small Scenes", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "Barb Levine", 
+            "RemarksForRegistrar": "Paid  by check", 
+            "RoomAndBoard": 580.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRShonor313", 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Renee", 
+            "FirstAndLast": "Renee Rubin-Ross", 
+            "Last": "Rubin-Ross", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(631) 757-2372", 
+        "Timestamp": 1509059774.0
+    }
+]

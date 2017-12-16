@@ -1,0 +1,78 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Corning Glass Adventure", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Donna Miller-Small", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1ThirdPeriod": null, 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 2, 
+                    "Leader": "", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": "Za McDonnell"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Folk Dancing", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Patricia Williams", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 655.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 235.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Male", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Les", 
+            "FirstAndLast": "Les Francey", 
+            "Last": "Francey", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(905) 545-8812", 
+        "Timestamp": 1511015126.0
+    }
+]

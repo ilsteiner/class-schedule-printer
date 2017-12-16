@@ -1,0 +1,71 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Puppet Making (days 1-2)", 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 1, 
+                    "Leader": "Mickey Reed", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": "Za McDonnell"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Mask Making", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Teri Wilkinson and Julie Siftar", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Hillside", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 430.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 235.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Katie", 
+            "FirstAndLast": "Katie Brennan", 
+            "Last": "Brennan", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": null, 
+        "Timestamp": 1513252800.0
+    }
+]

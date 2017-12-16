@@ -1,0 +1,175 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Cultural Messages in Games", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin and Karen Wisnia", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1ThirdPeriod": "Corning Glass Adventure", 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 2, 
+                    "Leader": "Donna Miller-Small", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": "Za McDonnell"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)", 
+                    "ClassName2SecondPeriod": "Active Games (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank and Donna Miller-Small", 
+                    "Leader2": "Jacquie Adain"
+                }, 
+                {
+                    "ClassName1SecondPeriod": null, 
+                    "ClassName2SecondPeriod": "Story Games", 
+                    "ItemNumber": 2, 
+                    "Leader": "", 
+                    "Leader2": "Robin Bady"
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "Teddie Wood", 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 580.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Margaret", 
+            "FirstAndLast": "Margaret Easter", 
+            "Last": "Easter", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(301) 570-1478", 
+        "Timestamp": 1510669837.0
+    }, 
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Cultural Messages in Games", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin and Karen Wisnia", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1ThirdPeriod": null, 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 2, 
+                    "Leader": "", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": "Howard Moody"
+                }, 
+                {
+                    "ClassName1FirstPeriod": "Active Games (days 1-2)", 
+                    "ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "Jacquie Adain", 
+                    "Leader2": "Za McDonnell"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Small Scenes", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)", 
+                    "ClassName2SecondPeriod": "Active Games (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "Frank and Donna Miller-Small", 
+                    "Leader2": "Jacquie Adain"
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "Margaret Easter", 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 580.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 2, 
+        "Name": {
+            "First": "Teddie", 
+            "FirstAndLast": "Teddie Wood", 
+            "Last": "Wood", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(301) 570-1478", 
+        "Timestamp": 1510669837.0
+    }
+]

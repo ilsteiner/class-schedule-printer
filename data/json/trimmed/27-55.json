@@ -1,0 +1,71 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Cultural Messages in Games", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin and Karen Wisnia", 
+                    "Leader2": ""
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "Active Games (days 1-2)", 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Jacquie Adain", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Folk Dancing", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Patricia Williams", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": "Prefer single, but will share room (as long as person doesn't wear perfume or other scents- I have allergies!)", 
+            "RoomAndBoard": 655.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Bonnie", 
+            "FirstAndLast": "Bonnie Ostrofsky", 
+            "Last": "Ostrofsky", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(215) 510-4704", 
+        "Timestamp": 1510676446.0
+    }
+]

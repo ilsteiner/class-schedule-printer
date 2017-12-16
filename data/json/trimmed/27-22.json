@@ -1,0 +1,85 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Corning Glass Adventure", 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 1, 
+                    "Leader": "Donna Miller-Small", 
+                    "Leader2": "Betsy Reinstein"
+                }, 
+                {
+                    "ClassName1ThirdPeriod": "Puppet Making (days 1-2)", 
+                    "ClassName2ThirdPeriod": "Puppet Making (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "Mickey Reed", 
+                    "Leader2": "Mickey Reed"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "NIA Dance (days 1-2)", 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Judi Powers and Marko Schmale", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1FirstPeriod": null, 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Mask Making", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Teri Wilkinson and Julie Siftar", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": "none", 
+            "RemarksForRegistrar": "place me facing field please", 
+            "RoomAndBoard": 0.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRSleader724", 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Alison", 
+            "FirstAndLast": "Alison Pepper", 
+            "Last": "Pepper", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(212) 866-5362", 
+        "Timestamp": 1507056146.0
+    }
+]

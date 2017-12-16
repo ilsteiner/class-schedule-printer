@@ -1,0 +1,63 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": null, 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Small Scenes", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Newcomer", 
+            "Membership_Amount": -50.0, 
+            "Membership_Price": -50.0, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": "Hi Donna- I am Martha Woods' Dad, and she asked me to remind you about setting aside a single room in the West WIng main hall (no stairs please) facing the north toward the chapel. Thank you!", 
+            "RoomAndBoard": 655.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Male", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Kenneth", 
+            "FirstAndLast": "Kenneth entworth", 
+            "Last": "entworth", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(914) 667-0707", 
+        "Timestamp": 1512786286.0
+    }
+]

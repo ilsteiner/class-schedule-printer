@@ -1,0 +1,70 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "Children's Program", 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Tim Siftar", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1FirstPeriod": "Children's Program", 
+                    "ClassName2FirstPeriod": null, 
+                    "ItemNumber": 2, 
+                    "Leader": "Tim Siftar", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Small Scenes", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": null, 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 430.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Male", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Henry", 
+            "FirstAndLast": "Henry Schwartz", 
+            "Last": "Schwartz", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(212) 645-1910", 
+        "Timestamp": 1510618427.0
+    }
+]

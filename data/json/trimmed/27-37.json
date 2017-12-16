@@ -1,0 +1,71 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": null, 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 1, 
+                    "Leader": "", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Za McDonnell", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Folk Dancing", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Patricia Williams", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Non-Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "4", 
+            "PreferredRoommate2": "Toby Woods", 
+            "RemarksForRegistrar": "Toby Woods, Sophia & David G-N as well if they want", 
+            "RoomAndBoard": 305.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "Vegetarian", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Catherine", 
+            "FirstAndLast": "Catherine Woods", 
+            "Last": "Woods", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(914) 356-1477", 
+        "Timestamp": 1509485948.0
+    }
+]

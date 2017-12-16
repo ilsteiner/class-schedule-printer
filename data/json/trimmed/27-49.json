@@ -1,0 +1,92 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "Nancy Benowitz", 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 464.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRSboard428", 
+            "Tuition": 160.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Male", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Robert", 
+            "FirstAndLast": "Robert Benowitz", 
+            "Last": "Benowitz", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(610) 825-2308", 
+        "Timestamp": 1510589720.0
+    }, 
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "2", 
+            "PreferredRoommate2": "Robert Benowitz", 
+            "RemarksForRegistrar": null, 
+            "RoomAndBoard": 580.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 2, 
+        "Name": {
+            "First": "Nancy", 
+            "FirstAndLast": "Nancy Benowitz", 
+            "Last": "Benowitz", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(610) 613-1683", 
+        "Timestamp": 1510589720.0
+    }
+]

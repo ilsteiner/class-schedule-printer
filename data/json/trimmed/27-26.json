@@ -1,0 +1,85 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Corning Glass Adventure", 
+                    "ClassName2ThirdPeriod": "Puppet Making (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Donna Miller-Small", 
+                    "Leader2": "Mickey Reed"
+                }, 
+                {
+                    "ClassName1ThirdPeriod": null, 
+                    "ClassName2ThirdPeriod": "Stepping into Desire", 
+                    "ItemNumber": 2, 
+                    "Leader": "", 
+                    "Leader2": "Betsy Reinstein"
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "Active Games (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Jacquie Adain", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Folk Dancing", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Patricia Williams", 
+                    "Leader2": ""
+                }, 
+                {
+                    "ClassName1SecondPeriod": "Mask Making", 
+                    "ClassName2SecondPeriod": "Active Games (days 3-4)", 
+                    "ItemNumber": 2, 
+                    "Leader": "Teri Wilkinson and Julie Siftar", 
+                    "Leader2": "Jacquie Adain"
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "West Wing", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "1", 
+            "PreferredRoommate2": "Me, myself and I.", 
+            "RemarksForRegistrar": "No stairs or roommate, please.\nAlthough I listed as vegetarian I only do this because I don't eat beef or pork. I do eat chicken and fish.", 
+            "RoomAndBoard": 0.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": "ECRSleader724", 
+            "Tuition": 0.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "Vegetarian", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Jacquie", 
+            "FirstAndLast": "Jacquie Adain", 
+            "Last": "Adain", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(416) 690-9719", 
+        "Timestamp": 1508010058.0
+    }
+]

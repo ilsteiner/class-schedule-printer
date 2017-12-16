@@ -1,0 +1,185 @@
+[
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Cultural Messages in Games", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Frank Baskin and Karen Wisnia", 
+                    "Leader2": ""
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)", 
+                    "ClassName2FirstPeriod": "Waltz Time is Play Time", 
+                    "ItemNumber": 1, 
+                    "Leader": "Za McDonnell", 
+                    "Leader2": "Wesley Stevens"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Folk Dancing", 
+                    "ClassName2SecondPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Patricia Williams", 
+                    "Leader2": ""
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "3", 
+            "PreferredRoommate2": "Max & Emily Kaye :)", 
+            "RemarksForRegistrar": "I am registering for Kathy Pike, Max Kaye and Emily Kaye. Steve Kaye will register himself for a separate room.", 
+            "RoomAndBoard": 305.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "No preference", 
+        "Gender": "Female", 
+        "ItemNumber": 1, 
+        "Name": {
+            "First": "Kathy", 
+            "FirstAndLast": "Kathy Pike", 
+            "Last": "Pike", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(617) 240-2020", 
+        "Timestamp": 1509998038.0
+    }, 
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [
+                {
+                    "ClassName1ThirdPeriod": "Adventure Game Theater", 
+                    "ClassName2ThirdPeriod": null, 
+                    "ItemNumber": 1, 
+                    "Leader": "Isaac Lebwohl-Steiner", 
+                    "Leader2": ""
+                }
+            ], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [
+                {
+                    "ClassName1FirstPeriod": "Active Games (days 1-2)", 
+                    "ClassName2FirstPeriod": "Improv (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Jacquie Adain", 
+                    "Leader2": "Howard Moody"
+                }
+            ], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [
+                {
+                    "ClassName1SecondPeriod": "Improv (days 1-2)", 
+                    "ClassName2SecondPeriod": "Active Games (days 3-4)", 
+                    "ItemNumber": 1, 
+                    "Leader": "Howard Moody", 
+                    "Leader2": "Jacquie Adain"
+                }
+            ], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": null, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "3", 
+            "PreferredRoommate2": "Kathy Pike & Emily Kaye", 
+            "RemarksForRegistrar": "Steve Kaye will register himself in separate room", 
+            "RoomAndBoard": 305.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 200.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": false
+        }, 
+        "FoodPreference": "Vegetarian", 
+        "Gender": "Male", 
+        "ItemNumber": 2, 
+        "Name": {
+            "First": "Maxwell", 
+            "FirstAndLast": "Maxwell Kaye", 
+            "Last": "Kaye", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(617) 697-3954", 
+        "Timestamp": 1509998038.0
+    }, 
+    {
+        "ClassRegistration": {
+            "AfternoonPeriod": [], 
+            "AfternoonPeriod_Minimum": 0, 
+            "MorningFirstPeriod": [], 
+            "MorningFirstPeriod_Minimum": 0, 
+            "MorningSecondPeriod": [], 
+            "MorningSecondPeriod_Minimum": 0
+        }, 
+        "Fees": {
+            "Age": 16, 
+            "Deposit": null, 
+            "Deposit_Description": null, 
+            "Deposit_Name": "Deposit", 
+            "HousingLocation": "Main Lodge", 
+            "Membership": "Member", 
+            "Membership_Amount": null, 
+            "Membership_Price": null, 
+            "NumberInRoom": "3", 
+            "PreferredRoommate2": "Max Kaye & Kathy Pike", 
+            "RemarksForRegistrar": "Steve Kaye will register himself separately in separate room", 
+            "RoomAndBoard": 305.0, 
+            "RoomAndBoard_Description": null, 
+            "RoomAndBoard_Name": "Room and Board", 
+            "ScholarshipCode": null, 
+            "Tuition": 50.0, 
+            "Tuition_Description": "Tuition", 
+            "Tuition_Name": "Tuition", 
+            "Under18": true
+        }, 
+        "FoodPreference": "Vegetarian", 
+        "Gender": "Female", 
+        "ItemNumber": 3, 
+        "Name": {
+            "First": "Emily", 
+            "FirstAndLast": "Emily Kaye", 
+            "Last": "Kaye", 
+            "Middle": null, 
+            "MiddleInitial": null, 
+            "Prefix": null, 
+            "Suffix": null
+        }, 
+        "Phone": "(781) 258-7193", 
+        "Timestamp": 1509998038.0
+    }
+]
