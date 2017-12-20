@@ -1,10 +1,6 @@
 <?php
 	function getLists($filename, $delimiter=',') {
 		if(!file_exists($filename) || !is_readable($filename)) {
-			echo "Filename: " . $filename;
-			echo "<br>Exists: " . file_exists($filename);
-			echo "<br>Readable: " . is_readable($filename);
-			echo "<br";
 			return FALSE;
 		}
 		
@@ -15,10 +11,8 @@
 		$combined_lists = array();
 		if (($handle = fopen($filename, 'r')) !== FALSE)
 		{
-			echo "opened";
 			while (($row = fgetcsv($handle, 0, $delimiter)) !== FALSE)
 			{
-				echo "parsed";
 				if(!$leaders) {
 					$leaders = $row;
 				}
@@ -32,6 +26,9 @@
 			}
 			fclose($handle);
 		}
+
+		print_r($class_leaders);
+		print_r($class_lists);
 
 		foreach ($classes as $class) {
 			$combined_lists[$class] = (object) 

@@ -33,7 +33,7 @@
     <div class="class-schedules active-content">
       <?php
         $lists = getLists("data/csv/lists.csv");
-        var_dump($lists);
+        print_r($lists);
         $attendees = json_decode(file_get_contents("data/combined.json"));
         $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
         $staffLists = array();
