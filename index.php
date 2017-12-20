@@ -36,7 +36,8 @@
 
         foreach ($lists["schedules"] as $schedule => $name) {
           $enrolled = $schedule;
-
+          print_r($name);
+          print_r($schedule);
           require "partials/schedule.php";
         }
       ?>
