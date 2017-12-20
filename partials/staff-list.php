@@ -10,7 +10,7 @@
 			echo "<div class='participants'>";
 				foreach ($list->participants as $participant => $pData) {
 					echo "<div class='participant'>";
-						echo "<div class='participant-name'>" . $participant . "</div>";
+						echo "<div class='participant-name'>" . $pData . "</div>";
 					echo "</div>";
 				}
 			echo "</div>";
