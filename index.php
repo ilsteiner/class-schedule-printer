@@ -38,10 +38,10 @@
           $enrolled = array();
 
           foreach ($schedule as $index => $class) {
-            $enrolled[][] = cleanName($class);
+            $enrolled[] = cleanName($class);
           }
 
-          print_r($enrolled);
+          // print_r($enrolled);
 
           require "partials/schedule.php";
         }
