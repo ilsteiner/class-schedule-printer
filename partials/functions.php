@@ -30,11 +30,11 @@
 
 		foreach ($temp_class_lists as $index => $list) {
 			foreach ($list as $class => $participant) {
-				$class_lists[$class][] = $participant;
+				if(strlen($participant) > 0) {
+					$class_lists[$class][] = $participant;
+				}
 			}
 		}
-
-		highlight_string("<?php\n\$data =\n" . var_export($class_lists, true) . ";\n?>");
 
 		foreach ($classes as $class) {
 			$combined_lists[$class] = (object) 
