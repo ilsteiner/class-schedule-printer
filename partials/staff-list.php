@@ -1,5 +1,5 @@
 <?php
-	uasort($staffLists, function($a, $b) {
+	uasort($lists['staff_lists'], function($a, $b) {
 		if(isset($a) && isset($b)) {
 			return strcmp($a['leader'],$b['leader']);
 		}
