@@ -1,4 +1,43 @@
 <?php
+	function getLists($filename, $delimiter=',') {
+		if(!file_exists($filename) || !is_readable($filename)) {
+			return FALSE;
+		}
+		
+		$leaders = NULL;
+		$classes = NULL;
+		$class_leaders = NULL;
+		$class_lists = array();
+		$combined_lists = array();
+		if (($handle = fopen($filename, 'r')) !== FALSE)
+		{
+			while (($row = fgetcsv($handle, 0, $delimiter)) !== FALSE)
+			{
+				if(!$leaders) {
+					$leaders = $row;
+				}
+				if else(!$classes) {
+					$classes = $row;
+					$class_leaders = array_combine($classes,$leaders);
+				}
+				else {
+					$class_lists[] = array_combine($classes, $row);
+				}
+			}
+			fclose($handle);
+		}
+
+		foreach ($classes as $class) {
+			$combined_lists[$class] = (object) 
+				['name' => $class, 
+				 'leader' => $class_leaders[$class],
+				 'participants' => $class_lists[$class]
+			    ]
+		}
+
+		return $combined_lists;
+	}
+
 	function getClasses($attendee,&$limitedEnrollment) {
 		$classes = array();
 		global $nameMap;
