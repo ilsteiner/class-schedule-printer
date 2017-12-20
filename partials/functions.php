@@ -32,7 +32,7 @@
 				['name' => $class, 
 				 'leader' => $class_leaders[$class],
 				 'participants' => $class_lists[$class]
-			    ]
+			    ];
 		}
 
 		return $combined_lists;
