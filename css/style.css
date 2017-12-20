@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   color: #333;
   background: #eee; }
@@ -67,6 +68,12 @@ body {
 
 .bold {
   font-weight: bold; }
+
+.dash-after:after {
+  content: "—";
+  font-weight: normal;
+  margin-left: 3px;
+  margin-right: 3px; }
 
 .title {
   font-family: "Oswald", sans-serif;
@@ -230,9 +237,6 @@ td, .mini-1, .mini-2 {
         font-size: 1.5em;
         position: relative;
         top: 4px; }
-      .staff-list .participants .participant .participant-name:after {
-        padding: 0px 10px;
-        content: "\2014"; }
       .staff-list .participants .participant .registration-time {
         display: inline-block; }
         .staff-list .participants .participant .registration-time .reg-date {

@@ -91,12 +91,12 @@ body {
     font-weight: bold;
 }
 
-// .dash-after:after{
-//     content: "—";
-//     font-weight: normal;
-//     margin-left: 3px;
-//     margin-right: 3px;
-// }
+.dash-after:after{
+    content: "—";
+    font-weight: normal;
+    margin-left: 3px;
+    margin-right: 3px;
+}
 
 .title {
     font-family: $header-font;
@@ -305,10 +305,10 @@ td, .mini-1, .mini-2 {
                 top: 4px;
             }
 
-            .participant-name:after {
-                padding: 0px 10px;
-                content: "\2014";
-            }
+            // .participant-name:after {
+            //     padding: 0px 10px;
+            //     content: "\2014";
+            // }
 
             .registration-time {
                 display: inline-block;
