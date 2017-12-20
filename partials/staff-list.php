@@ -1,16 +1,18 @@
 <?php
-	uasort($lists['staff_lists'], function($a, $b) {
-		if(isset($a) && isset($b)) {
-			return strcmp($a->'leader',$b->'leader');
-		}
-		if(!isset($a) && isset($b)) {
-			return -1;
-		}
-		if(isset($a) && !isset($b)) {
-			return 1;
-		}
-		return 0;
-	});
+	foreach ($lists['staff_lists'] as $list) {
+		uasort($list, function($a, $b) {
+			if(isset($a) && isset($b)) {
+				return strcmp($a["leader"],$b["leader"]);
+			}
+			if(!isset($a) && isset($b)) {
+				return -1;
+			}
+			if(isset($a) && !isset($b)) {
+				return 1;
+			}
+			return 0;
+		});
+	}
 ?>
 
 <div class="staff-list-wrapper">
