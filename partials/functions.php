@@ -7,6 +7,7 @@
 		$leaders = NULL;
 		$classes = NULL;
 		$class_leaders = NULL;
+		$temp_class_lists = array();
 		$class_lists = array();
 		$combined_lists = array();
 		if (($handle = fopen($filename, 'r')) !== FALSE)
@@ -21,10 +22,16 @@
 					$class_leaders = array_combine($classes,$leaders);
 				}
 				else {
-					$class_lists[] = array_combine($classes, $row);
+					$temp_class_lists[] = array_combine($classes, $row);
 				}
 			}
 			fclose($handle);
+		}
+
+		foreach ($temp_class_lists as $index => $list) {
+			foreach ($list as $class => $participant) {
+				$class_lists[$class][] = $participant;
+			}
 		}
 
 		highlight_string("<?php\n\$data =\n" . var_export($class_lists, true) . ";\n?>");
