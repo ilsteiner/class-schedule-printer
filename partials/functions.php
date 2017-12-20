@@ -1,7 +1,10 @@
 <?php
 	function getLists($filename, $delimiter=',') {
 		if(!file_exists($filename) || !is_readable($filename)) {
-			echo "Failed";
+			echo "Filename: " . $filename;
+			echo "<br>Exists: " . file_exists($filename);
+			echo "<br>Readable: " . is_readable($filename);
+			echo "<br";
 			return FALSE;
 		}
 		
