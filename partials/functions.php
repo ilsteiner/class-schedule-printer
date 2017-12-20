@@ -27,7 +27,6 @@
 			fclose($handle);
 		}
 
-		print_r($class_leaders);
 		print_r($class_lists);
 
 		foreach ($classes as $class) {
