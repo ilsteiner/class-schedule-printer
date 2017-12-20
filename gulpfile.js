@@ -66,4 +66,4 @@ gulp.task('watch', function() {
 });
 
 // Default Task
-gulp.task('default', ['watch', 'json-merge', 'js', 'css']);
+gulp.task('default', ['watch', 'js', 'css']);

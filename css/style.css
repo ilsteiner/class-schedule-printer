@@ -1,4 +1,3 @@
-@charset "UTF-8";
 body {
   color: #333;
   background: #eee; }
@@ -68,12 +67,6 @@ body {
 
 .bold {
   font-weight: bold; }
-
-.dash-after:after {
-  content: "—";
-  font-weight: normal;
-  margin-left: 3px;
-  margin-right: 3px; }
 
 .title {
   font-family: "Oswald", sans-serif;
