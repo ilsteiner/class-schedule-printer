@@ -27,7 +27,7 @@
 			fclose($handle);
 		}
 
-		print_r($class_lists);
+		highlight_string("<?php\n\$data =\n" . var_export($class_lists, true) . ";\n?>");
 
 		foreach ($classes as $class) {
 			$combined_lists[$class] = (object) 
