@@ -35,6 +35,7 @@
         $lists = getLists("data/csv/lists.csv");
 
         foreach ($lists["schedules"] as $schedule) {
+          print_r($schedule);
           $enrolled = $schedule;
 
           require "partials/schedule.php";
