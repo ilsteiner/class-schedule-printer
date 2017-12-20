@@ -15,7 +15,8 @@
 
 <div class="staff-list-wrapper">
 	<?php
-	foreach ($staffLists as $className => $data) {
+	foreach ($lists["staff_lists"] as $list) {
+		print_r($list);
 		echo "<div class='staff-list'>";
 			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $nameMap[$className] . "</div>";

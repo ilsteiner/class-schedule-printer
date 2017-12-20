@@ -41,8 +41,6 @@
             $enrolled[] = cleanName($class);
           }
 
-          // print_r($enrolled);
-
           require "partials/schedule.php";
         }
       ?>
