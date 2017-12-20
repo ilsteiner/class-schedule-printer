@@ -16,7 +16,7 @@
 				if(!$leaders) {
 					$leaders = $row;
 				}
-				if else(!$classes) {
+				elseif(!$classes) {
 					$classes = $row;
 					$class_leaders = array_combine($classes,$leaders);
 				}
