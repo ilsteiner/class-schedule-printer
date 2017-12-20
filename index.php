@@ -35,7 +35,12 @@
         $lists = getLists("data/csv/lists.csv");
 
         foreach ($lists["schedules"] as $name => $schedule) {
-          $enrolled = $schedule;
+          $enrolled = array();
+
+          foreach ($schedule as $index => $class) {
+            $enrolled[][] = cleanName($class);
+          }
+
           require "partials/schedule.php";
         }
       ?>
