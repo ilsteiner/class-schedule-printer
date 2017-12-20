@@ -9,6 +9,8 @@
 		$class_leaders = NULL;
 		$temp_class_lists = array();
 		$class_lists = array();
+		$schedules = array();
+		$staff_lists = array();
 		$combined_lists = array();
 		if (($handle = fopen($filename, 'r')) !== FALSE)
 		{
@@ -31,18 +33,24 @@
 		foreach ($temp_class_lists as $index => $list) {
 			foreach ($list as $class => $participant) {
 				if(strlen($participant) > 0) {
-					$class_lists[$class][] = $participant;
+					$fixed_name = ucwords($participant);
+					$class_lists[$class][] = $fixed_name;
+					$schedules[$fixed_name][] = $class;
 				}
 			}
 		}
 
 		foreach ($classes as $class) {
-			$combined_lists[$class] = (object) 
-				['name' => $class, 
+			$staff_lists[$class] = (object) 
+				[
+				 'name' => $class, 
 				 'leader' => $class_leaders[$class],
 				 'participants' => $class_lists[$class]
 			    ];
 		}
+
+		$combined_lists['staff_lists'] = $staff_lists;
+		$combined_lists['schedules'] = $schedules;
 
 		return $combined_lists;
 	}

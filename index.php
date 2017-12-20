@@ -33,15 +33,9 @@
     <div class="class-schedules active-content">
       <?php
         $lists = getLists("data/csv/lists.csv");
-        highlight_string("<?php\n\$data =\n" . var_export($lists, true) . ";\n?>");
-        $attendees = json_decode(file_get_contents("data/combined.json"));
-        $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
-        $staffLists = array();
-        $nameMap = array();
 
-        foreach ($attendees as $index => $attendee) {
-          $name = $attendee->Name->FirstAndLast;
-          $enrolled = getClasses($attendee,$limitedEnrollment,$nameMap);
+        foreach ($lists["schedules"] as $schedule) {
+          $enrolled = $schedule;
 
           require "partials/schedule.php";
         }
