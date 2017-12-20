@@ -1,6 +1,7 @@
 <?php
 	function getLists($filename, $delimiter=',') {
 		if(!file_exists($filename) || !is_readable($filename)) {
+			echo "Failed";
 			return FALSE;
 		}
 		
@@ -11,8 +12,10 @@
 		$combined_lists = array();
 		if (($handle = fopen($filename, 'r')) !== FALSE)
 		{
+			echo "opened";
 			while (($row = fgetcsv($handle, 0, $delimiter)) !== FALSE)
 			{
+				echo "parsed";
 				if(!$leaders) {
 					$leaders = $row;
 				}
