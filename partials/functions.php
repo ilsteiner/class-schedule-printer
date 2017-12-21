@@ -260,6 +260,7 @@
 		return (isset($limitedEnrollment[$className]) ? $limitedEnrollment[$className]["enrolled"] >= $limitedEnrollment[$className]["limit"] : false);
 	}
 
+	//Source http://www.media-division.com/correct-name-capitalization-in-php/
 	function nameCase($string) 
 	{
 		$word_splitters = array(' ', '.', '-', "O'", "L'", "D'", 'St.', 'Mc');
