@@ -216,7 +216,7 @@
         </div>
       </td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("corning-glass-adventure",$enrolled) ? " enrolled" : "") ?>">
+        <div class="<?php echo (in_array("corning-glass-adventure",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Corning Glass
           </div>
@@ -229,18 +229,7 @@
         </div>
       </td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("corning-glass-adventure",$enrolled) ? " enrolled" : "") ?>">
-          <div class="title">
-            Corning Glass
-          </div>
-          <div class="days">
-            Days 1–2
-          </div>
-          <div class="leader">
-            Donna
-          </div>
-        </div>
-        <div class="mini-2<?php echo (in_array("stepping-into-desire",$enrolled) ? " enrolled" : "") ?>">
+        <div class="<?php echo (in_array("stepping-into-desire",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Desire
           </div>
