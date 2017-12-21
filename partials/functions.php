@@ -33,7 +33,7 @@
 		foreach ($temp_class_lists as $index => $list) {
 			foreach ($list as $class => $participant) {
 				if(strlen($participant) > 0) {
-					$fixed_name = ucwords($participant);
+					$fixed_name = ucwords(strtolower($participant));
 					$class_lists[$class][] = $fixed_name;
 					$schedules[$fixed_name][] = $class;
 				}
