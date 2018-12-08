@@ -1,0 +1,6512 @@
+[
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				},
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": ""
+				},
+				{
+					"ClassName1FirstPeriod": null,
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": "none",
+			"RemarksForRegistrar": "place me facing field please",
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Alison",
+			"FirstAndLast": "Alison Pepper",
+			"Last": "Pepper",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(212) 866-5362",
+		"Timestamp": 1507056146
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Za McDonnell & Taylor Metz",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Patricia",
+			"FirstAndLast": "Patricia Williams",
+			"Last": "Williams",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(703) 472-3888",
+		"Timestamp": 1507666336
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Kirk and Naomi",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Karen",
+			"FirstAndLast": "Karen Wisnia",
+			"Last": "Wisnia",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 681-0539",
+		"Timestamp": 1507754493
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Karen & Naomi",
+			"RemarksForRegistrar": "Kirk is getting a scholarship code based on me having several roles:  co-leader, Asst. BM, Admin. to Staff Coord.",
+			"RoomAndBoard": 152.5,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Kirk",
+			"FirstAndLast": "Kirk Wattles",
+			"Last": "Wattles",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 432-4383",
+		"Timestamp": 1507754493
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 17,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Karen & Kirk",
+			"RemarksForRegistrar": "Naomi is allergic to peanuts and brazil nuts.",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 50,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Naomi",
+			"FirstAndLast": "Naomi Wattles",
+			"Last": "Wattles",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1507754493
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Robin Pierce",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Dan",
+			"FirstAndLast": "Dan Rubin",
+			"Last": "Rubin",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(516) 849-2987",
+		"Timestamp": 1508006302
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Newcomer",
+			"Membership_Amount": -50,
+			"Membership_Price": -50,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Dan Rubin",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Robin",
+			"FirstAndLast": "Robin Pierce",
+			"Last": "Pierce",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(516) 205-4343",
+		"Timestamp": 1508006302
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Cassie",
+			"FirstAndLast": "Cassie Rubin",
+			"Last": "Rubin",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(650) 520-3599",
+		"Timestamp": 1508006302
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				},
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": "Me, myself and I.",
+			"RemarksForRegistrar": "No stairs or roommate, please.\nAlthough I listed as vegetarian I only do this because I don't eat beef or pork. I do eat chicken and fish.",
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Jacquie",
+			"FirstAndLast": "Jacquie Adain",
+			"Last": "Adain",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(416) 690-9719",
+		"Timestamp": 1508010058
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Renee Rubin Ross",
+			"RemarksForRegistrar": "Board member",
+			"RoomAndBoard": 464,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSboard428",
+			"Tuition": 160,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Barbara",
+			"FirstAndLast": "Barbara Levine",
+			"Last": "Levine",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(914) 242-0862",
+		"Timestamp": 1508377396
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Debra",
+			"FirstAndLast": "Debra Karl",
+			"Last": "Karl",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1508702926
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Charlie",
+			"FirstAndLast": "Charlie Karl",
+			"Last": "Karl",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1508702926
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Edward Hurley",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "David",
+			"FirstAndLast": "David Sherman",
+			"Last": "Sherman",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(207) 615-9724",
+		"Timestamp": 1508763990
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "David Sherman",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "EDWARD",
+			"FirstAndLast": "EDWARD HURLEY",
+			"Last": "HURLEY",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(207) 615-9723",
+		"Timestamp": 1508763990
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Steve Woods",
+			"RemarksForRegistrar": "Please put us in the West Wing past the mid-hall door, on the right with a window looking toward the field and over to the chapel. I think it's room #52 we like best. (Thanks and love you!)",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Martha",
+			"FirstAndLast": "Martha Woods",
+			"Last": "Woods",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1508980350
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Martha Woods",
+			"RemarksForRegistrar": "see Martha's registration (I think we want WW room #52)",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Steve",
+			"FirstAndLast": "Steve Woods",
+			"Last": "Woods",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1508980771
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Catherine Woods",
+			"RemarksForRegistrar": "Toby & Catherine will room together  and will find a 3rd person to share and keep the cost down.",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Toby",
+			"FirstAndLast": "Toby Woods",
+			"Last": "Woods",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1508980771
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": null,
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Howard Moody"
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Paying by check",
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Donna",
+			"FirstAndLast": "Donna Miller-Small",
+			"Last": "Miller-Small",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(516) 764-0153",
+		"Timestamp": 1509056839
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Paying by check",
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Frank",
+			"FirstAndLast": "Frank Miller-Small",
+			"Last": "Miller-Small",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(516) 764-0153",
+		"Timestamp": 1509056839
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				},
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 2,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Barb Levine",
+			"RemarksForRegistrar": "Paid  by check",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRShonor313",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Renee",
+			"FirstAndLast": "Renee Rubin-Ross",
+			"Last": "Rubin-Ross",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(631) 757-2372",
+		"Timestamp": 1509059774
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": "Toby Woods",
+			"RemarksForRegistrar": "Toby Woods, Sophia & David G-N as well if they want",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Catherine",
+			"FirstAndLast": "Catherine Woods",
+			"Last": "Woods",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(914) 356-1477",
+		"Timestamp": 1509485948
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Sharon",
+			"FirstAndLast": "Sharon Underberg-Davis",
+			"Last": "Underberg-Davis",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(908) 705-7043",
+		"Timestamp": 1509844286
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Scout Underberg-Davis",
+			"RemarksForRegistrar": "Allergic to pistachios and hazelnuts (anapylaxis)--attention to snacks people",
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Crowley",
+			"FirstAndLast": "Crowley Underberg-Davis",
+			"Last": "Underberg-Davis",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(908) 239-3144",
+		"Timestamp": 1509844286
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Crow Underberg-Davis",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Agender",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Scout",
+			"FirstAndLast": "Scout Underberg-Davis",
+			"Last": "Underberg-Davis",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(908) 705-2417",
+		"Timestamp": 1509844286
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Hillside",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 430,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "David",
+			"FirstAndLast": "David Shen",
+			"Last": "Shen",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 951-9710",
+		"Timestamp": 1509895237
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Max & Emily Kaye :)",
+			"RemarksForRegistrar": "I am registering for Kathy Pike, Max Kaye and Emily Kaye. Steve Kaye will register himself for a separate room.",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Kathy",
+			"FirstAndLast": "Kathy Pike",
+			"Last": "Pike",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(617) 240-2020",
+		"Timestamp": 1509998038
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Kathy Pike & Emily Kaye",
+			"RemarksForRegistrar": "Steve Kaye will register himself in separate room",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Maxwell",
+			"FirstAndLast": "Maxwell Kaye",
+			"Last": "Kaye",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(617) 697-3954",
+		"Timestamp": 1509998038
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 16,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Max Kaye & Kathy Pike",
+			"RemarksForRegistrar": "Steve Kaye will register himself separately in separate room",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 50,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Emily",
+			"FirstAndLast": "Emily Kaye",
+			"Last": "Kaye",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(781) 258-7193",
+		"Timestamp": 1509998038
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Lana Lieberman (my daughter)",
+			"RemarksForRegistrar": "Please give us a room at the back near quiet folks.  Thanks.",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Fern",
+			"FirstAndLast": "Fern Lox",
+			"Last": "Lox",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(845) 223-5793",
+		"Timestamp": 1510017632
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 13,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Fern Lox (Mom)",
+			"RemarksForRegistrar": "Quiet room at the back, please.",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 50,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Lana",
+			"FirstAndLast": "Lana Lieberman",
+			"Last": "Lieberman",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(845) 223-5793",
+		"Timestamp": 1510017632
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Handicapped room.\nCourse selection to follow.",
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRShonor313",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Ruth",
+			"FirstAndLast": "Ruth Sherman",
+			"Last": "Sherman",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(914) 941-7325",
+		"Timestamp": 1510147686
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Lisa Gering and Jesse Comello",
+			"RemarksForRegistrar": "Please give us a room close to the door to the main hall. Jane has difficulty walking distance. Also, please place us next to or across from the room for Kay Gering.",
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRShonor313",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Jane",
+			"FirstAndLast": "Jane Gering",
+			"Last": "Gering",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(267) 982-5181",
+		"Timestamp": 1510183420
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Sharing room with Jane Gering and Jesse Comello",
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Lisa",
+			"FirstAndLast": "Lisa Gering",
+			"Last": "Gering",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510183420
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Newcomer",
+			"Membership_Amount": -50,
+			"Membership_Price": -50,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Sharing a room with Jane and Lisa Gering",
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Jesse",
+			"FirstAndLast": "Jesse Comello",
+			"Last": "Comello",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510183420
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Reese Tanner, Addison Peters",
+			"RemarksForRegistrar": "Please place us next to or across from Jane Gering's room.",
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Kay",
+			"FirstAndLast": "Kay Gering",
+			"Last": "Gering",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 499-9465",
+		"Timestamp": 1510184396
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 12,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Kay Gering",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Reese",
+			"FirstAndLast": "Reese Tanner",
+			"Last": "Tanner",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510184396
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 13,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Newcomer",
+			"Membership_Amount": -50,
+			"Membership_Price": -50,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Kay Gering and Reese Tanner",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Addison",
+			"FirstAndLast": "Addison Peters",
+			"Last": "Peters",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510184396
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Can I have 2 Beds? just in case kid wants to stay",
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Stephen",
+			"FirstAndLast": "Stephen Kaye",
+			"Last": "Kaye",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(781) 652-0055",
+		"Timestamp": 1510246026
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Reed",
+			"FirstAndLast": "Reed Dewey",
+			"Last": "Dewey",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 718-0262",
+		"Timestamp": 1510439788
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 17,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 50,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Gabe",
+			"FirstAndLast": "Gabe Dewey",
+			"Last": "Dewey",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 718-0262",
+		"Timestamp": 1510439788
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Betsy",
+			"FirstAndLast": "Betsy Dewey",
+			"Last": "Dewey",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 718-0262",
+		"Timestamp": 1510439788
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				},
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				},
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Carolyn",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Jim",
+			"FirstAndLast": "Jim Michener",
+			"Last": "Michener",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(978) 727-2838",
+		"Timestamp": 1510589130
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				},
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Wesley Stevens"
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 2,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Jim",
+			"RemarksForRegistrar": "Citrus Allergy",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Carolyn",
+			"FirstAndLast": "Carolyn Peters-Eckel",
+			"Last": "Peters-Eckel",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 290-2926",
+		"Timestamp": 1510589130
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Nancy Benowitz",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 464,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSboard428",
+			"Tuition": 160,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Robert",
+			"FirstAndLast": "Robert Benowitz",
+			"Last": "Benowitz",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(610) 825-2308",
+		"Timestamp": 1510589720
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Robert Benowitz",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Nancy",
+			"FirstAndLast": "Nancy Benowitz",
+			"Last": "Benowitz",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(610) 613-1683",
+		"Timestamp": 1510589720
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Dep. $65 check # 9621",
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "James",
+			"FirstAndLast": "James Schiller",
+			"Last": "Schiller",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(718) 445-3271",
+		"Timestamp": 1510616954
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Patricia & Taylor",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Za",
+			"FirstAndLast": "Za McDonnell",
+			"Last": "McDonnell",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 509-5370",
+		"Timestamp": 1509490676
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 15,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Za",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 50,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Taylor",
+			"FirstAndLast": "Taylor Metz",
+			"Last": "Metz",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1509490676
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 430,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Henry",
+			"FirstAndLast": "Henry Schwartz",
+			"Last": "Schwartz",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(212) 645-1910",
+		"Timestamp": 1510618427
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "boyfriend Avraham Geron",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Kim",
+			"FirstAndLast": "Kim Neubauer",
+			"Last": "Neubauer",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 576-7133",
+		"Timestamp": 1510631112
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "girlfriend Kim Neubauer",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Avraham",
+			"FirstAndLast": "Avraham Geron",
+			"Last": "Geron",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 576-7133",
+		"Timestamp": 1510631112
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": "other young people ages 20-30",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "David",
+			"FirstAndLast": "David Geron-Neubauer",
+			"Last": "Geron-Neubauer",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 576-7133",
+		"Timestamp": 1510631112
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 2,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Teddie Wood",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Margaret",
+			"FirstAndLast": "Margaret Easter",
+			"Last": "Easter",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 570-1478",
+		"Timestamp": 1510669837
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				},
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Margaret Easter",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Teddie",
+			"FirstAndLast": "Teddie Wood",
+			"Last": "Wood",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 570-1478",
+		"Timestamp": 1510669837
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Prefer single, but will share room (as long as person doesn't wear perfume or other scents- I have allergies!)",
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Bonnie",
+			"FirstAndLast": "Bonnie Ostrofsky",
+			"Last": "Ostrofsky",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 510-4704",
+		"Timestamp": 1510676446
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				},
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				},
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Hillside",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 430,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "J.P.",
+			"FirstAndLast": "J.P. McDevitt",
+			"Last": "McDevitt",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510666690
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Steven Mitchell",
+			"RemarksForRegistrar": "Can Steve and I have same room as the last 2? Great memories! The system wouldn't let me say that you have our address on file.\n\nI will eat meat, but am strictly gluten free.",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Debra",
+			"FirstAndLast": "Debra Robert",
+			"Last": "Robert",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(919) 621-9330",
+		"Timestamp": 1510685722
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Debra Robert",
+			"RemarksForRegistrar": "Please can I have same room as the last 2 years?  Thanks!",
+			"RoomAndBoard": 580,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Steven",
+			"FirstAndLast": "Steven Mitchell",
+			"Last": "Mitchell",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(919) 621-9329",
+		"Timestamp": 1510685722
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Frank Baskin",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 200,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Leslie",
+			"FirstAndLast": "Leslie Baskin",
+			"Last": "Baskin",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(978) 458-1512",
+		"Timestamp": 1510689345
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Hillside",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "single room please",
+			"RemarksForRegistrar": "My first choice is room #2, Hillside, followed by room #1.",
+			"RoomAndBoard": 167.5,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Charlotte",
+			"FirstAndLast": "Charlotte Young",
+			"Last": "Young",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(416) 778-4713",
+		"Timestamp": 1510714907
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Wesley Stevens"
+				},
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Tom",
+			"FirstAndLast": "Tom Helde",
+			"Last": "Helde",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 871-9813",
+		"Timestamp": 1510718108
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Andrea",
+			"FirstAndLast": "Andrea Abrams",
+			"Last": "Abrams",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 871-9813",
+		"Timestamp": 1510718108
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Wesley Stevens"
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Robin Bady"
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Hugh",
+			"FirstAndLast": "Hugh Abrams-Helde",
+			"Last": "Abrams-Helde",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 871-9813",
+		"Timestamp": 1510718108
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 4,
+		"Name": {
+			"First": "Momo",
+			"FirstAndLast": "Momo Abrams-Helde",
+			"Last": "Abrams-Helde",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(240) 389-7242",
+		"Timestamp": 1510718108
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Cultural Messages in Games",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin and Karen Wisnia",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "leslie Baskin",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Frank",
+			"FirstAndLast": "Frank Baskin",
+			"Last": "Baskin",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(978) 458-1512",
+		"Timestamp": 1510761983
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "Rom 29",
+			"RoomAndBoard": 430,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRShonor313",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Millie",
+			"FirstAndLast": "Millie Redman",
+			"Last": "Redman",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(718) 549-6031",
+		"Timestamp": 1510777709
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Glenn and Isaac",
+			"RemarksForRegistrar": "Would prefer one of the end rooms in the east wing.",
+			"RoomAndBoard": 244,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSboard428",
+			"Tuition": 188,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "ALAN",
+			"FirstAndLast": "ALAN STEINER",
+			"Last": "STEINER",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(914) 703-0310",
+		"Timestamp": 1510852199
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "ISAAC AND ALAN",
+			"RemarksForRegistrar": "prefer east wing end of hall with bathroom",
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "GLENN",
+			"FirstAndLast": "GLENN LEBWOHL-STEINER",
+			"Last": "LEBWOHL-STEINER",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(914) 803-0239",
+		"Timestamp": 1510852199
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Alan and Glenn",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Isaac",
+			"FirstAndLast": "Isaac Lebwohl-Steiner",
+			"Last": "Lebwohl-Steiner",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(845) 803-0238",
+		"Timestamp": 1510852199
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Wesley Stevens"
+				},
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": "Glenn Graeber",
+			"RemarksForRegistrar": "If Glenn Graeber decides to attend I will share with him.",
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Lauren",
+			"FirstAndLast": "Lauren Braun",
+			"Last": "Braun",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(610) 853-0268",
+		"Timestamp": 1510863154
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Dan",
+			"FirstAndLast": "Dan Nicholson",
+			"Last": "Nicholson",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510875315
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Julie",
+			"FirstAndLast": "Julie Siftar",
+			"Last": "Siftar",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510875315
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 15,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Celia",
+			"FirstAndLast": "Celia Nicholson",
+			"Last": "Nicholson",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510875315
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 14,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 4,
+		"Name": {
+			"First": "Sonia",
+			"FirstAndLast": "Sonia Nicholson",
+			"Last": "Nicholson",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510875315
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Julia Robison",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Helen",
+			"FirstAndLast": "Helen Fox",
+			"Last": "Fox",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(301) 562-8228",
+		"Timestamp": 1510884443
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				},
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 10,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Helen Fox",
+			"RemarksForRegistrar": "Julia will be 11 March 2, so we're hoping she can join for some 11+ classes. thanks!",
+			"RoomAndBoard": 205,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Julia",
+			"FirstAndLast": "Julia Robison",
+			"Last": "Robison",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1510884443
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Corning Glass Adventure",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Donna Miller-Small",
+					"Leader2": ""
+				},
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 2,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 655,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Les",
+			"FirstAndLast": "Les Francey",
+			"Last": "Francey",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(905) 545-8812",
+		"Timestamp": 1511015126
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Non-Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "howard",
+			"FirstAndLast": "howard moody",
+			"Last": "moody",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(845) 679-2043",
+		"Timestamp": 1511196464
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Me and Bobby D: Connecting with Dylan (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Frank and Donna Miller-Small",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Judi Powers",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "mark",
+			"FirstAndLast": "mark schmale",
+			"Last": "schmale",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(518) 251-2235",
+		"Timestamp": 1511224305
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Spoon Carving: Discovering What's Hidden Within",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Stephen Kaye",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 15,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "trevor green",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "clayton",
+			"FirstAndLast": "clayton schmale",
+			"Last": "schmale",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(518) 251-2235",
+		"Timestamp": 1511224305
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "mark schmale",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "judi",
+			"FirstAndLast": "judi powers",
+			"Last": "powers",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(518) 251-2235",
+		"Timestamp": 1511224305
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "clayton schmale",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 335,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 235,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 4,
+		"Name": {
+			"First": "Trevor",
+			"FirstAndLast": "Trevor Green",
+			"Last": "Green",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(518) 892-5362",
+		"Timestamp": 1511224305
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": null,
+					"ClassName2ThirdPeriod": "Stepping into Desire",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Betsy Reinstein"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": null,
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": null,
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "tom rigney",
+			"RemarksForRegistrar": "If possible, Tom would prefer a room without stairs!",
+			"RoomAndBoard": 290,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "robin",
+			"FirstAndLast": "robin bady",
+			"Last": "bady",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(718) 633-6651",
+		"Timestamp": 1511294760
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Small Scenes",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Frank Baskin",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": "Judy Gross",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Mickey",
+			"FirstAndLast": "Mickey Reed",
+			"Last": "Reed",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(203) 288-0033",
+		"Timestamp": 1511311158
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Waltz Time is Play Time",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Wesley Stevens"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "1",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": "First choice is a room by myself but I'm willing to share if space gets tight. Similarly, first choice is West Wing but Hillside is OK. Basically: whatever, I'm easy.",
+			"RoomAndBoard": 327.5,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Wesley",
+			"FirstAndLast": "Wesley Stevens",
+			"Last": "Stevens",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(416) 694-4874",
+		"Timestamp": 1511322929
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Children's Program",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Cooperative Children's Program",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": "yes",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Tim",
+			"FirstAndLast": "Tim Siftar",
+			"Last": "Siftar",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(215) 729-3520",
+		"Timestamp": 1511380067
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": "yes",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Myriam",
+			"FirstAndLast": "Myriam Siftar",
+			"Last": "Siftar",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1511380067
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Puppet Making (days 1-2)",
+					"ClassName2ThirdPeriod": "Puppet Making (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Mickey Reed",
+					"Leader2": "Mickey Reed"
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Folk Dancing",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Patricia Williams",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 15,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": "yes",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 305,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Carmen",
+			"FirstAndLast": "Carmen Siftar",
+			"Last": "Siftar",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1511380067
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Children's Program",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Children's Program",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Cooperative Children's Program",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Tim Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 7,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "4",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 195,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 4,
+		"Name": {
+			"First": "Roxanne",
+			"FirstAndLast": "Roxanne Siftar",
+			"Last": "Siftar",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": null,
+		"Timestamp": 1511380067
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "What Wants to Come Next in Your Life? (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Za McDonnell",
+					"Leader2": "Howard Moody"
+				},
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": null,
+					"ItemNumber": 2,
+					"Leader": "Jacquie Adain",
+					"Leader2": ""
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Story Games",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Robin Bady"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Nyiri and Krikor",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 252.5,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSmini964",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "Vegetarian",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Allie",
+			"FirstAndLast": "Allie Hajian",
+			"Last": "Hajian",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(617) 982-9755",
+		"Timestamp": 1511613261
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 17,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Allie and Nyiri",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Male",
+		"ItemNumber": 2,
+		"Name": {
+			"First": "Krikor",
+			"FirstAndLast": "Krikor Hajian",
+			"Last": "Hajian",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(617) 982-9783",
+		"Timestamp": 1511613261
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "Active Games (days 1-2)",
+					"ClassName2FirstPeriod": "Improv (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Jacquie Adain",
+					"Leader2": "Howard Moody"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Improv (days 1-2)",
+					"ClassName2SecondPeriod": "Active Games (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Howard Moody",
+					"Leader2": "Jacquie Adain"
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": 14,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "West Wing",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "3",
+			"PreferredRoommate2": "Allie and Krikor",
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 505,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": null,
+			"Tuition": 60,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": true
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 3,
+		"Name": {
+			"First": "Nyiri",
+			"FirstAndLast": "Nyiri Hajian",
+			"Last": "Hajian",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(617) 982-9789",
+		"Timestamp": 1511613261
+	},
+	{
+		"ClassRegistration": {
+			"AfternoonPeriod": [
+				{
+					"ClassName1ThirdPeriod": "Adventure Game Theater",
+					"ClassName2ThirdPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Isaac Lebwohl-Steiner",
+					"Leader2": ""
+				}
+			],
+			"AfternoonPeriod_Minimum": 0,
+			"MorningFirstPeriod": [
+				{
+					"ClassName1FirstPeriod": "NIA Dance (days 1-2)",
+					"ClassName2FirstPeriod": "What Wants to Come Next in Your Life? (days 3-4)",
+					"ItemNumber": 1,
+					"Leader": "Judi Powers and Marko Schmale",
+					"Leader2": "Za McDonnell"
+				}
+			],
+			"MorningFirstPeriod_Minimum": 0,
+			"MorningSecondPeriod": [
+				{
+					"ClassName1SecondPeriod": "Mask Making",
+					"ClassName2SecondPeriod": null,
+					"ItemNumber": 1,
+					"Leader": "Teri Wilkinson and Julie Siftar",
+					"Leader2": ""
+				}
+			],
+			"MorningSecondPeriod_Minimum": 0
+		},
+		"Fees": {
+			"Age": null,
+			"Deposit": null,
+			"Deposit_Description": null,
+			"Deposit_Name": "Deposit",
+			"HousingLocation": "Main Lodge",
+			"Membership": "Member",
+			"Membership_Amount": null,
+			"Membership_Price": null,
+			"NumberInRoom": "2",
+			"PreferredRoommate2": null,
+			"RemarksForRegistrar": null,
+			"RoomAndBoard": 0,
+			"RoomAndBoard_Description": null,
+			"RoomAndBoard_Name": "Room and Board",
+			"ScholarshipCode": "ECRSleader724",
+			"Tuition": 0,
+			"Tuition_Description": "Tuition",
+			"Tuition_Name": "Tuition",
+			"Under18": false
+		},
+		"FoodPreference": "No preference",
+		"Gender": "Female",
+		"ItemNumber": 1,
+		"Name": {
+			"First": "Teri",
+			"FirstAndLast": "Teri Wilkinson",
+			"Last": "Wilkinson",
+			"Middle": null,
+			"MiddleInitial": null,
+			"Prefix": null,
+			"Suffix": null
+		},
+		"Phone": "(973) 349-4534",
+		"Timestamp": 1511657009
+	}
+]
