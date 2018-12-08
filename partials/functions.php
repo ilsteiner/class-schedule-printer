@@ -3,7 +3,7 @@
 		$classes = array();
 		global $nameMap;
 
-		$classes["name"] = $attendee->Name->FirstAndLast;
+		$classes["name"] = $attendee->ClassRegistration->Name->FirstAndLast;
 		$classes["time"] = $attendee->Timestamp;
 		$classes["age"] = (isset($attendee->Fees->Age) ? $attendee->Fees->Age : null);
 

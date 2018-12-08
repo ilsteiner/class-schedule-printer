@@ -38,7 +38,7 @@
         $nameMap = array();
 
         foreach ($attendees as $index => $attendee) {
-          $name = $attendee->Name->FirstAndLast;
+          $name = $attendee->ClassRegistration->Name->FirstAndLast;
           $enrolled = getClasses($attendee,$limitedEnrollment,$nameMap);
 
           require "partials/schedule.php";
