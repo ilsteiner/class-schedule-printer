@@ -247,7 +247,7 @@
           </div>
         </div>
       </td>
-      <td class="cell<?php echo (in_array("adventure-game-theater",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("adventure-games-theater",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Adventure<br>Game Theater
         </div>

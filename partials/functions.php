@@ -92,7 +92,7 @@
 			$staffLists[$classes[6]]["participants"][$classes["name"]]["time"] = $classes["time"];
 			$staffLists[$classes[6]]["participants"][$classes["name"]]["age"] = $classes["age"];
 			$staffLists[$classes[6]]["leader"] = $classes[7];
-		}		
+		}	
 	}
 
 	function limitEnrollment(&$classes, &$nameMap, &$limitedEnrollment,$firstChoices,$secondChoices) {
@@ -147,6 +147,7 @@
 		}
 
 		// One of them had a problem
+		// error_log("Invalid class pair: " . $classpair[0] . " - " . $classPair[1] . "\n", 3, ‘/logs/error.log’);
 		return false;
 	}
 

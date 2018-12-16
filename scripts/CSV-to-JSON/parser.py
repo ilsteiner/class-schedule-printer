@@ -23,10 +23,13 @@ def process_file(filename):
 				for col_num,col in enumerate(row):
 					item[item_headers[col_num]] = col
 				items.append(item)
+
+	# Reverse the list
+	items.reverse()
 	return items
 
 try:
-	# Try to oprocess all the files
+	# Try to process all the files
 	attendees = process_file("data/attendees.csv")
 	first = process_file("data/first.csv")
 	second = process_file("data/second.csv")
