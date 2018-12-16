@@ -32,14 +32,12 @@
     ?>
     <div class="class-schedules active-content">
       <?php
-        $attendees = json_decode(file_get_contents("data/combined.json"));
-        $limitedEnrollment = getLimitedClasses(json_decode(file_get_contents("data/limits.json"),true));
-        $staffLists = array();
-        $nameMap = array();
+        $by_person = json_decode(file_get_contents("data/by_person.json"));
+        $by_class = json_decode(file_get_contents("data/by_class.json"));
 
-        foreach ($attendees as $index => $attendee) {
-          $name = $attendee->ClassRegistration->Name->FirstAndLast;
-          $enrolled = getClasses($attendee,$limitedEnrollment,$nameMap);
+        foreach ($by_person as $index => $choices) {
+          $name = $index;
+          $enrolled = $choices;
 
           require "partials/schedule.php";
         }

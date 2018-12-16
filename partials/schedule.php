@@ -1,6 +1,6 @@
 <div class="wrapper checkmark greyscale first-only">
   <div class="event-name">
-    Winter Adventure 2017
+    Winter Adventure 2018
   </div>
   <div class="name">
     <?php echo $name ?>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td class="cell time">9:00-10:40</td>
-      <td class="cell<?php echo (in_array("folk-dancing",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Folk Dancing",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Folk Dancing
         </div>
@@ -32,7 +32,7 @@
       </td>
       <td class="cell"></td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("song-parody-a-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Song Parody  \"A\" (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Song Parody A
           </div>
@@ -43,7 +43,7 @@
             Josh and Rachael
           </div>
         </div>
-        <div class="mini-1<?php echo (in_array("song-parody-b-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Song Parody \"B\" (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Song Parody B
           </div>
@@ -57,7 +57,7 @@
       </td>
       <td class="cell"></td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("improv-1-2",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Improv (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Improv
           </div>
@@ -68,7 +68,7 @@
             Howard and Isaac
           </div>
         </div>
-        <div class="mini-2<?php echo (in_array("joy-of-movement",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-2<?php echo (in_array("Joy of Movement (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Joy of Movement
           </div>
@@ -81,7 +81,7 @@
         </div>
       </td>
       <td class="cell"></td>
-      <td class="cell<?php echo (in_array("childrens-program",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Children's Program",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Children's<br>Program
         </div>
@@ -93,7 +93,7 @@
     <tr>
       <td class="cell time">10:50-12:30</td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("drum-circle-\"a\"-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Drum Circle \"A\" (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Drum Circle A
           </div>
@@ -104,7 +104,7 @@
             Dan
           </div>
         </div>
-        <div class="mini-2<?php echo (in_array("drum-circle-\"b\"-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-2<?php echo (in_array("Drum Circle \"B\"  (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Drum Circle B
           </div>
@@ -116,7 +116,7 @@
           </div>
         </div>
       </td>
-      <td class="cell<?php echo (in_array("small-scenes",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Small Scenes",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Small Scenes
         </div>
@@ -127,7 +127,7 @@
       <td class="cell">
 
       </td>
-      <td class="cell<?php echo (in_array("art-and-mindfulness-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Art and Mindfulness (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Art and Mindfulness
         </div>
@@ -138,7 +138,7 @@
           Catherine
         </div>
       </td>
-      <td class="cell<?php echo (in_array("play-leadership-training",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Play Leadership Training",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Play Leadership Training
         </div>
@@ -146,7 +146,7 @@
           Howard
         </div>
       </td>
-      <td class="cell<?php echo (in_array("live-with-the-end-in-mind-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Live with the End in Mind (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Live With the End in Mind
         </div>
@@ -157,7 +157,7 @@
           Za
         </div>
       </td>
-      <td class="cell<?php echo (in_array("cooperative-childrens-program",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Cooperative Children's Program",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Cooperative<br>Children's<br>Program
         </div>
@@ -178,7 +178,7 @@
       <td class="cell time">3:45-5:45</td>
 
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("active-games-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Active Games (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Active Games
           </div>
@@ -189,7 +189,7 @@
             Jacquie
           </div>
         </div>
-        <div class="mini-2<?php echo (in_array("string-swing-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-2<?php echo (in_array("String & Swing (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             String and Swing
           </div>
@@ -201,7 +201,7 @@
           </div>
         </div>
       </td>
-      <td class="cell<?php echo (in_array("beatlesing-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Beatlesing (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Beatlesing
         </div>
@@ -212,7 +212,7 @@
           Frank, Donna, David
         </div>
       </td>
-      <td class="cell<?php echo (in_array("safe-conversations-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Safe Conversations (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Safe Conversations
         </div>
@@ -224,7 +224,7 @@
         </div>
       </td>
       <td class="cell">
-        <div class="mini-1<?php echo (in_array("greeting-cards-days-1-2",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-1<?php echo (in_array("Greeting Cards (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Greeting Cards
           </div>
@@ -235,7 +235,7 @@
             Charlotte
           </div>
         </div>
-        <div class="mini-2<?php echo (in_array("mobiles-days-3-4",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-2<?php echo (in_array("Mobiles (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Mobiles
           </div>
@@ -247,7 +247,7 @@
           </div>
         </div>
       </td>
-      <td class="cell<?php echo (in_array("adventure-games-theater",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Adventure Games Theater",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Adventure<br>Game Theater
         </div>
@@ -256,7 +256,7 @@
         </div>
       </td>
       <td class="cell"></td>
-      <td class="cell<?php echo (in_array("childrens-program",$enrolled) ? " enrolled" : "") ?>">
+      <td class="cell<?php echo (in_array("Children's Program",$enrolled) ? " enrolled" : "") ?>">
         <div class="title">
           Children's<br>Program
         </div>

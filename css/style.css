@@ -294,7 +294,9 @@ td, .mini-1, .mini-2 {
 @media print {
   * {
     -webkit-print-color-adjust: exact;
-    print-color-adjust: exact; }
+    print-color-adjust: exact;
+    margin: 0;
+    padding: 0; }
   @page {
     margin: 1.5cm; }
   body, .wrapper {
