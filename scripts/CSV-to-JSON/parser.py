@@ -68,6 +68,7 @@ try:
 				first_registration["ClassName2FirstPeriod"] = row["ClassName2FirstPeriod"]
 				first_registration["Leader"] = row["Leader"]
 				first_registration["Leader2"] = row["Leader2"]
+				first_registration["Priority"] = row["ClassRegistration_MorningFirstP_Id"]
 				registration["ClassRegistration"]["MorningFirstPeriod"].append(first_registration)
 
 		for row in second:
@@ -79,6 +80,7 @@ try:
 				second_registration["ClassName2SecondPeriod"] = row["ClassName2SecondPeriod"]
 				second_registration["Leader"] = row["Leader"]
 				second_registration["Leader2"] = row["Leader2"]
+				first_registration["Priority"] = row["ClassRegistration_MorningSecond_Id"]
 				registration["ClassRegistration"]["MorningSecondPeriod"].append(second_registration)
 
 		for row in third:
@@ -90,6 +92,7 @@ try:
 				third_registration["ClassName2ThirdPeriod"] = row["ClassName2ThirdPeriod"]
 				third_registration["Leader"] = row["Leader"]
 				third_registration["Leader2"] = row["Leader2"]
+				first_registration["Priority"] = row["ClassRegistration_AfternoonPeri_Id"]
 				registration["ClassRegistration"]["AfternoonPeriod"].append(third_registration)
 
 		registrations.append(registration)

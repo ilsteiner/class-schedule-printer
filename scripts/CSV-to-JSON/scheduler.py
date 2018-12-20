@@ -25,7 +25,7 @@ ThirdPeriodClasses = {}
 Limits = {}
 AllClasses = []
 
-def register_for_class(classPeriodName,classPeriod,registration,choices):
+def register_for_class(classPeriodName,classPeriod,registration,choices,name):
 	for choice in choices:
 		if choice[classPeriodName] != "None":
 			if(len(choice[classPeriodName]) == 0):
@@ -64,6 +64,9 @@ def collate_class_period(class_period,people):
 # Get the limits
 with open('limits.json', 'r') as limits_file:
 	Limits = json.load(limits_file)
+
+with open('test_reg.json', 'w') as test:
+	json.dump(schedules,test)
 
 # Get classes available
 for registration in schedules:
@@ -108,14 +111,18 @@ for registration in schedules:
 
 # We have the available classes, now start adding the actual choices
 for registration in schedules:
-	register_for_class("ClassName1FirstPeriod",FirstPeriodClasses,registration,registration["ClassRegistration"]["MorningFirstPeriod"])
-	register_for_class("ClassName2FirstPeriod",FirstPeriodClasses,registration,registration["ClassRegistration"]["MorningFirstPeriod"])
+	registration["ClassRegistration"]["MorningFirstPeriod"].reverse()
+	registration["ClassRegistration"]["MorningSecondPeriod"].reverse()
+	registration["ClassRegistration"]["AfternoonPeriod"].reverse()
 
-	register_for_class("ClassName1SecondPeriod",SecondPeriodClasses,registration,registration["ClassRegistration"]["MorningSecondPeriod"])
-	register_for_class("ClassName2SecondPeriod",SecondPeriodClasses,registration,registration["ClassRegistration"]["MorningSecondPeriod"])
+	register_for_class("ClassName1FirstPeriod",FirstPeriodClasses,registration,registration["ClassRegistration"]["MorningFirstPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
+	register_for_class("ClassName2FirstPeriod",FirstPeriodClasses,registration,registration["ClassRegistration"]["MorningFirstPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
 
-	register_for_class("ClassName1ThirdPeriod",ThirdPeriodClasses,registration,registration["ClassRegistration"]["AfternoonPeriod"])
-	register_for_class("ClassName2ThirdPeriod",ThirdPeriodClasses,registration,registration["ClassRegistration"]["AfternoonPeriod"])
+	register_for_class("ClassName1SecondPeriod",SecondPeriodClasses,registration,registration["ClassRegistration"]["MorningSecondPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
+	register_for_class("ClassName2SecondPeriod",SecondPeriodClasses,registration,registration["ClassRegistration"]["MorningSecondPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
+
+	register_for_class("ClassName1ThirdPeriod",ThirdPeriodClasses,registration,registration["ClassRegistration"]["AfternoonPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
+	register_for_class("ClassName2ThirdPeriod",ThirdPeriodClasses,registration,registration["ClassRegistration"]["AfternoonPeriod"],registration["ClassRegistration"]["Name"]["FirstAndLast"])
 
 AllClasses.append(FirstPeriodClasses)
 AllClasses.append(SecondPeriodClasses)
