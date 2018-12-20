@@ -43,7 +43,7 @@
             Josh and Rachael
           </div>
         </div>
-        <div class="mini-1<?php echo (in_array("Song Parody \"B\" (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
+        <div class="mini-2<?php echo (in_array("Song Parody \"B\" (days 3-4)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
             Song Parody B
           </div>
@@ -55,7 +55,14 @@
           </div>
         </div>
       </td>
-      <td class="cell"></td>
+      <td class="cell<?php echo (in_array("Collage Journey Books",$enrolled) ? " enrolled" : "") ?>">
+        <div class="title">
+          Collage Journey Books
+        </div>
+        <div class="leader">
+          Teri
+        </div>
+      </td>
       <td class="cell">
         <div class="mini-1<?php echo (in_array("Improv (days 1-2)",$enrolled) ? " enrolled" : "") ?>">
           <div class="title">
