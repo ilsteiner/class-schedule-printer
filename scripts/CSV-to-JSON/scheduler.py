@@ -90,11 +90,13 @@ for registration in schedules:
 			SecondPeriodClasses[choice["ClassName1SecondPeriod"]] = {}
 			SecondPeriodClasses[choice["ClassName1SecondPeriod"]]["Registrants"] = []
 			SecondPeriodClasses[choice["ClassName1SecondPeriod"]]["Leader"] = choice["Leader"]
+			SecondPeriodClasses[choice["ClassName1SecondPeriod"]]["Limit"] = Limits[choice["ClassName1SecondPeriod"]]
 			SecondPeriodClasses[choice["ClassName1SecondPeriod"]]["Count"] = 0
 		if len(choice["ClassName2SecondPeriod"]) > 0 and choice["ClassName2SecondPeriod"] != "None" and choice["ClassName2SecondPeriod"] not in SecondPeriodClasses:
 			SecondPeriodClasses[choice["ClassName2SecondPeriod"]] = {}
 			SecondPeriodClasses[choice["ClassName2SecondPeriod"]]["Registrants"] = []
 			SecondPeriodClasses[choice["ClassName2SecondPeriod"]]["Leader"] = choice["Leader2"]
+			SecondPeriodClasses[choice["ClassName2SecondPeriod"]]["Limit"] = Limits[choice["ClassName2SecondPeriod"]]
 			SecondPeriodClasses[choice["ClassName2SecondPeriod"]]["Count"] = 0
 	# Get third period class
 	for choice in registration["ClassRegistration"]["AfternoonPeriod"]:
@@ -102,11 +104,13 @@ for registration in schedules:
 			ThirdPeriodClasses[choice["ClassName1ThirdPeriod"]] = {}
 			ThirdPeriodClasses[choice["ClassName1ThirdPeriod"]]["Registrants"] = []
 			ThirdPeriodClasses[choice["ClassName1ThirdPeriod"]]["Leader"] = choice["Leader"]
+			ThirdPeriodClasses[choice["ClassName1ThirdPeriod"]]["Limit"] = Limits[choice["ClassName1ThirdPeriod"]]
 			ThirdPeriodClasses[choice["ClassName1ThirdPeriod"]]["Count"] = 0
 		if len(choice["ClassName2ThirdPeriod"]) > 0 and choice["ClassName2ThirdPeriod"] != "None" and choice["ClassName2ThirdPeriod"] not in ThirdPeriodClasses:
 			ThirdPeriodClasses[choice["ClassName2ThirdPeriod"]] = {}
 			ThirdPeriodClasses[choice["ClassName2ThirdPeriod"]]["Registrants"] = []
 			ThirdPeriodClasses[choice["ClassName2ThirdPeriod"]]["Leader"] = choice["Leader2"]
+			ThirdPeriodClasses[choice["ClassName2ThirdPeriod"]]["Limit"] = Limits[choice["ClassName2ThirdPeriod"]]
 			ThirdPeriodClasses[choice["ClassName2ThirdPeriod"]]["Count"] = 0
 
 # We have the available classes, now start adding the actual choices

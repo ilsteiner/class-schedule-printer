@@ -5,7 +5,7 @@
 			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $className . "</div>";
 				echo "<div class='leader-name'>" . $data->Leader . "</div>";
-				echo "<div class='count" . ($data->Limit != 0 && $data->Count == $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
+				echo "<div class='count" . ($data->Limit != 0 && $data->Count >= $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
 			echo "</div>";
 			echo "<div class='participants'>";
 				foreach ($data->Registrants as $participant => $pData) {
@@ -30,7 +30,7 @@
 			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $className . "</div>";
 				echo "<div class='leader-name'>" . $data->Leader . "</div>";
-				echo "<div class='count" . ($data->Limit != 0 && $data->Count == $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
+				echo "<div class='count" . ($data->Limit != 0 && $data->Count >= $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
 			echo "</div>";
 			echo "<div class='participants'>";
 				foreach ($data->Registrants as $participant => $pData) {
@@ -55,7 +55,7 @@
 			echo "<div class='staff-list-header'>";
 				echo "<div class='class-name'>" . $className . "</div>";
 				echo "<div class='leader-name'>" . $data->Leader . "</div>";
-				echo "<div class='count" . ($data->Limit != 0 && $data->Count == $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
+				echo "<div class='count" . ($data->Limit != 0 && $data->Count >= $data->Limit ? " limit" : "") . "'>" . $data->Count . "</div>";
 			echo "</div>";
 			echo "<div class='participants'>";
 				foreach ($data->Registrants as $participant => $pData) {
